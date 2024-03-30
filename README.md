@@ -242,7 +242,7 @@
 - [raghavan/PdfGptIndexer](https://github.com/raghavan/PdfGptIndexer) - An efficient tool for indexing and searching PDF text data using OpenAI API and FAISS (Facebook AI Similarity Search) index, designed for rapid information retrieval and superior search accuracy.
 - [the-c0d3r/sqli-scanner](https://github.com/the-c0d3r/sqli-scanner) - A tool to mass scan SQL Injection Vulnerable websites from a file.
 - [jupediaz/chatgpt-prompt-splitter](https://github.com/jupediaz/chatgpt-prompt-splitter) - ChatGPT PROMPTs Splitter. Tool for safely process chunks of up to 15,000 characters per request
-- [ogun/guncel-turkce-sozluk](https://github.com/ogun/guncel-turkce-sozluk) - Türkçe Sözlük'ünün 11. baskısının gözden geçirilip güncellenmiş olarak genel ağdan sunulan sürümüdür.
+- [ogun/guncel-turkce-sozluk](https://github.com/ogun/guncel-turkce-sozluk) - Türkçe Sözlük'ünün 12. baskısının gözden geçirilip güncellenmiş olarak genel ağdan sunulan sürümüdür.
 - [cedricp/ddt4all](https://github.com/cedricp/ddt4all) - OBD tool
 - [chiefonboarding/ChiefOnboarding](https://github.com/chiefonboarding/ChiefOnboarding) - Free and open-source employee onboarding platform. Onboard new hires through Slack or the web portal.
 - [frknkrc44/nicksizbot](https://github.com/frknkrc44/nicksizbot) - 
