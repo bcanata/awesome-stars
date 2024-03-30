@@ -645,7 +645,7 @@
 - [the-c0d3r/sqli-scanner](https://github.com/the-c0d3r/sqli-scanner) - A tool to mass scan SQL Injection Vulnerable websites from a file.
 - [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
 - [m1guelpf/chatgpt-telegram](https://github.com/m1guelpf/chatgpt-telegram) - Run your own GPTChat Telegram bot, with a single command!
-- [ogun/guncel-turkce-sozluk](https://github.com/ogun/guncel-turkce-sozluk) - Türkçe Sözlük'ünün 11. baskısının gözden geçirilip güncellenmiş olarak genel ağdan sunulan sürümüdür.
+- [ogun/guncel-turkce-sozluk](https://github.com/ogun/guncel-turkce-sozluk) - Türkçe Sözlük'ünün 12. baskısının gözden geçirilip güncellenmiş olarak genel ağdan sunulan sürümüdür.
 - [rafaelmaeuer/timecapsule-pi](https://github.com/rafaelmaeuer/timecapsule-pi) - Create Time Capsule with Raspberry Pi and external HDD
 - [LaravelDaily/laravel-tips](https://github.com/LaravelDaily/laravel-tips) - Awesome tips for Laravel
 - [cedricp/ddt4all](https://github.com/cedricp/ddt4all) - OBD tool
