@@ -282,6 +282,7 @@
 
 ## Shell 
 
+- [mitcdh/docker-google-drive-ocamlfuse](https://github.com/mitcdh/docker-google-drive-ocamlfuse) - Mount Google Drive with FUSE within a Docker container
 - [D3Ext/WEF](https://github.com/D3Ext/WEF) - Wi-Fi Exploitation Framework
 - [LoliC0d3/LoliDocker](https://github.com/LoliC0d3/LoliDocker) - dorking google
 - [1N3/Sn1per](https://github.com/1N3/Sn1per) - Attack Surface Management Platform
