@@ -56,6 +56,7 @@
 - [google-cloud](#google-cloud)
 - [graphql](#graphql)
 - [hacking](#hacking)
+- [hacking-tool](#hacking-tool)
 - [hacktoberfest](#hacktoberfest)
 - [html](#html)
 - [html5](#html5)
@@ -407,6 +408,10 @@
 - [sundowndev/hacker-roadmap](https://github.com/sundowndev/hacker-roadmap) - A collection of hacking tools, resources and references to practice ethical hacking.
 - [1N3/Sn1per](https://github.com/1N3/Sn1per) - Attack Surface Management Platform
 
+## hacking-tool 
+
+- [sundowndev/hacker-roadmap](https://github.com/sundowndev/hacker-roadmap) - A collection of hacking tools, resources and references to practice ethical hacking.
+
 ## hacktoberfest 
 
 - [vinitshahdeo/Email-Signature-Template](https://github.com/vinitshahdeo/Email-Signature-Template) - An email signature template made using HTML & CSS - let's make its easier for everyone!
@@ -624,6 +629,7 @@
 
 ## others 
 
+- [mitcdh/docker-google-drive-ocamlfuse](https://github.com/mitcdh/docker-google-drive-ocamlfuse) - Mount Google Drive with FUSE within a Docker container
 - [zpbd/GoogleDriveOrphanedFileRestorer](https://github.com/zpbd/GoogleDriveOrphanedFileRestorer) - If you restore trashed files in Google Team Drive that were in trashed folders, they can be orphaned in the root. This console application can restore them to their original folders.
 - [tynor88/docker-rclone-mount](https://github.com/tynor88/docker-rclone-mount) - Docker for Rclone FUSE mount (exposable to host and other containers)
 - [urlgrey/aprs-dashboard](https://github.com/urlgrey/aprs-dashboard) - Dashboard for APRS messages
