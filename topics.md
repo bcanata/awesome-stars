@@ -710,7 +710,7 @@
 - [mnjul/html-resume](https://github.com/mnjul/html-resume) - A single-page resume template completely typeset with HTML & CSS.
 - [tbaltrushaitis/cv](https://github.com/tbaltrushaitis/cv) - :mortar_board: Best in Class modern CV, Resume and Portfolio website template. All-in-One-Page site with simply customizable builder.
 - [dekuNukem/daytripper](https://github.com/dekuNukem/daytripper) - Hide-My-Windows Laser Tripwire
-- [gazhayes/HackRF-Blue](https://github.com/gazhayes/HackRF-Blue) - 
+- [gsovereignty/HackRF-Blue](https://github.com/gsovereignty/HackRF-Blue) - 
 - [ta2bgh/usdx-lcd-test](https://github.com/ta2bgh/usdx-lcd-test) - for testing usdx lcd
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [sickcodes/osx-serial-generator](https://github.com/sickcodes/osx-serial-generator) - Mac Serial Generator - Generate complete sets of Serial Numbers for OSX-KVM, Docker-OSX and of course, OpenCore.
