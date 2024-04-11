@@ -187,7 +187,7 @@
 - [alexeymezenin/laravel-best-practices](https://github.com/alexeymezenin/laravel-best-practices) - Laravel best practices
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
-- [gazhayes/HackRF-Blue](https://github.com/gazhayes/HackRF-Blue) - 
+- [gsovereignty/HackRF-Blue](https://github.com/gsovereignty/HackRF-Blue) - 
 - [umutphp/hacker-laws-tr](https://github.com/umutphp/hacker-laws-tr) - 💻📖 Programcıların faydalı bulacağı yasalar, teoriler, prensipler ve desenler. #hackerlaws
 - [kitspace/awesome-electronics](https://github.com/kitspace/awesome-electronics) - A curated list of awesome resources for Electronic Engineers and hobbyists
 - [Atarity/deploy-your-own-saas](https://github.com/Atarity/deploy-your-own-saas) - List of "only yours" cloud services for everyday needs :black_flag:
