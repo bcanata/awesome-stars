@@ -661,7 +661,7 @@
 - [bcanata/KEGM-CagriIsareti](https://github.com/bcanata/KEGM-CagriIsareti) - Kıyı Emniyeti Genel Müdürlüğü Çağrı İşareti Sorgulama
 - [spm81/Quansheng_UV-K5](https://github.com/spm81/Quansheng_UV-K5) - Quansheng UV-K5
 - [polotto/awesome-captain-definition](https://github.com/polotto/awesome-captain-definition) - Some captain-definition files for the CapRover (https://caprover.com/) that can be useful to other developers.
-- [raghavan/PdfGptIndexer](https://github.com/raghavan/PdfGptIndexer) - An efficient tool for indexing and searching PDF text data using OpenAI API and FAISS (Facebook AI Similarity Search) index, designed for rapid information retrieval and superior search accuracy.
+- [raghavan/PdfGptIndexer](https://github.com/raghavan/PdfGptIndexer) - RAG based tool for indexing and searching PDF text data using OpenAI API and FAISS (Facebook AI Similarity Search) index, designed for rapid information retrieval and superior search accuracy.
 - [the-c0d3r/sqli-scanner](https://github.com/the-c0d3r/sqli-scanner) - A tool to mass scan SQL Injection Vulnerable websites from a file.
 - [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
 - [m1guelpf/chatgpt-telegram](https://github.com/m1guelpf/chatgpt-telegram) - Run your own GPTChat Telegram bot, with a single command!
