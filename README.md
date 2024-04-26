@@ -239,7 +239,7 @@
 - [amnemonic/Quansheng_UV-K5_Firmware](https://github.com/amnemonic/Quansheng_UV-K5_Firmware) - Quansheng UV-K5 Firmware
 - [s0md3v/Blazy](https://github.com/s0md3v/Blazy) - Blazy is a modern login bruteforcer which also tests for CSRF, Clickjacking, Cloudflare and WAF .
 - [spm81/Quansheng_UV-K5](https://github.com/spm81/Quansheng_UV-K5) - Quansheng UV-K5
-- [raghavan/PdfGptIndexer](https://github.com/raghavan/PdfGptIndexer) - An efficient tool for indexing and searching PDF text data using OpenAI API and FAISS (Facebook AI Similarity Search) index, designed for rapid information retrieval and superior search accuracy.
+- [raghavan/PdfGptIndexer](https://github.com/raghavan/PdfGptIndexer) - RAG based tool for indexing and searching PDF text data using OpenAI API and FAISS (Facebook AI Similarity Search) index, designed for rapid information retrieval and superior search accuracy.
 - [the-c0d3r/sqli-scanner](https://github.com/the-c0d3r/sqli-scanner) - A tool to mass scan SQL Injection Vulnerable websites from a file.
 - [jupediaz/chatgpt-prompt-splitter](https://github.com/jupediaz/chatgpt-prompt-splitter) - ChatGPT PROMPTs Splitter. Tool for safely process chunks of up to 15,000 characters per request
 - [ogun/guncel-turkce-sozluk](https://github.com/ogun/guncel-turkce-sozluk) - Türkçe Sözlük'ünün 12. baskısının gözden geçirilip güncellenmiş olarak genel ağdan sunulan sürümüdür.
