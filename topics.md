@@ -421,6 +421,7 @@
 
 ## hacktoberfest 
 
+- [catdad/canvas-confetti](https://github.com/catdad/canvas-confetti) - 🎉 performant confetti animation in the browser
 - [vinitshahdeo/Email-Signature-Template](https://github.com/vinitshahdeo/Email-Signature-Template) - An email signature template made using HTML & CSS - let's make its easier for everyone!
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
@@ -691,7 +692,6 @@
 - [Howchoo/random-bits](https://github.com/Howchoo/random-bits) - Random files that supplement various howchoo guides.
 - [skittles9823/APK-Installer-Win11](https://github.com/skittles9823/APK-Installer-Win11) - A simple powershell script to install apk files to Windows Subsystem for Android on Windows 11 by simply double clicking an apk file
 - [vomsis/netgsm](https://github.com/vomsis/netgsm) - Laravel 5.x Netgsm Package
-- [phpuzem/netgsm](https://github.com/phpuzem/netgsm) - Netgsm Php Api İle Kullanılan Sms Paketi
 - [gethugothemes/bookworm-light-hugo](https://github.com/gethugothemes/bookworm-light-hugo) - Bookworm is a clean and modern Hugo blog theme focused on high speed and support multiple authors.
 - [HerMajestyDrMona/Windows11DragAndDropToTaskbarFix](https://github.com/HerMajestyDrMona/Windows11DragAndDropToTaskbarFix) - "Windows 11 Drag & Drop to the Taskbar (Fix)" fixes the missing "Drag & Drop to the Taskbar" support in Windows 11. It works with the new Windows 11 taskbar and does not require nasty changes like Und
 - [acronis-zz/lcd-pano](https://github.com/acronis-zz/lcd-pano) - Okullar için Dijital Pano Uygulaması
