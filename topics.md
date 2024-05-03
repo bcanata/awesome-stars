@@ -104,7 +104,6 @@
 - [r](#r)
 - [raspberry-pi](#raspberry-pi)
 - [react](#react)
-- [redux](#redux)
 - [rest-api](#rest-api)
 - [rust](#rust)
 - [sass](#sass)
@@ -821,10 +820,6 @@
 - [transitive-bullshit/nextjs-notion-starter-kit](https://github.com/transitive-bullshit/nextjs-notion-starter-kit) - Deploy your own Notion-powered website in minutes with Next.js and Vercel.
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
 - [redwoodjs/redwood](https://github.com/redwoodjs/redwood) - The App Framework for Startups
-
-## redux 
-
-- [Renovamen/playground-macos](https://github.com/Renovamen/playground-macos) - My portfolio website simulating macOS's GUI, developed with React and UnoCSS.
 
 ## rest-api 
 
