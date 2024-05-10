@@ -170,6 +170,7 @@
 
 ## Others 
 
+- [ozancanozdemir/Turkiye-deki-Acik-Veri-Portallari-Open-Data-Portals-in-Turkey-](https://github.com/ozancanozdemir/Turkiye-deki-Acik-Veri-Portallari-Open-Data-Portals-in-Turkey-) - 
 - [firatsoygul/TurkiyeAmatorRadyoBandiPlani](https://github.com/firatsoygul/TurkiyeAmatorRadyoBandiPlani) - Türkiye Amatör Radyo Bandı Planı Bilgi Grafikleri (IARU 1. Bölge)
 - [bcanata/awesome-telsiz](https://github.com/bcanata/awesome-telsiz) - Telsiz Hakkında Kullanışlı Kaynaklar ham-radio radio ham awesome-list awesome-lists
 - [Jieyab89/OSINT-Cheat-sheet](https://github.com/Jieyab89/OSINT-Cheat-sheet) - OSINT cheat sheet, list OSINT tools, dataset, article, book and OSINT tips
