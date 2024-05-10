@@ -648,6 +648,7 @@
 
 ## others 
 
+- [ozancanozdemir/Turkiye-deki-Acik-Veri-Portallari-Open-Data-Portals-in-Turkey-](https://github.com/ozancanozdemir/Turkiye-deki-Acik-Veri-Portallari-Open-Data-Portals-in-Turkey-) - 
 - [cognitivecomputations/github2file](https://github.com/cognitivecomputations/github2file) - 
 - [mitcdh/docker-google-drive-ocamlfuse](https://github.com/mitcdh/docker-google-drive-ocamlfuse) - Mount Google Drive with FUSE within a Docker container
 - [zpbd/GoogleDriveOrphanedFileRestorer](https://github.com/zpbd/GoogleDriveOrphanedFileRestorer) - If you restore trashed files in Google Team Drive that were in trashed folders, they can be orphaned in the root. This console application can restore them to their original folders.
