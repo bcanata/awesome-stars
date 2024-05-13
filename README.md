@@ -170,6 +170,7 @@
 
 ## Others 
 
+- [kaymal/acik-veri](https://github.com/kaymal/acik-veri) - Türkiye'nin açık veri kaynakları | Curated list of open data platforms of Turkiye
 - [ozancanozdemir/Turkiye-deki-Acik-Veri-Portallari-Open-Data-Portals-in-Turkey-](https://github.com/ozancanozdemir/Turkiye-deki-Acik-Veri-Portallari-Open-Data-Portals-in-Turkey-) - 
 - [firatsoygul/TurkiyeAmatorRadyoBandiPlani](https://github.com/firatsoygul/TurkiyeAmatorRadyoBandiPlani) - Türkiye Amatör Radyo Bandı Planı Bilgi Grafikleri (IARU 1. Bölge)
 - [bcanata/awesome-telsiz](https://github.com/bcanata/awesome-telsiz) - Telsiz Hakkında Kullanışlı Kaynaklar ham-radio radio ham awesome-list awesome-lists
