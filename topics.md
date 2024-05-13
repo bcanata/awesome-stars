@@ -89,6 +89,7 @@
 - [nextjs](#nextjs)
 - [node](#node)
 - [nodejs](#nodejs)
+- [open-data](#open-data)
 - [open-source](#open-source)
 - [operating-system](#operating-system)
 - [osint](#osint)
@@ -627,6 +628,10 @@
 - [medusajs/medusa](https://github.com/medusajs/medusa) - Building blocks for digital commerce
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
+
+## open-data 
+
+- [kaymal/acik-veri](https://github.com/kaymal/acik-veri) - Türkiye'nin açık veri kaynakları | Curated list of open data platforms of Turkiye
 
 ## open-source 
 
