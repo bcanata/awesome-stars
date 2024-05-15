@@ -46,7 +46,7 @@
 - [motorello/quansheng-uv-k5-oefw-1o11](https://github.com/motorello/quansheng-uv-k5-oefw-1o11) - A customized version of https://github.com/DualTachyon/uv-k5-firmware forked from 1o11
 - [fagci/uv-k5-firmware-fagci-mod](https://github.com/fagci/uv-k5-firmware-fagci-mod) - OSFW based on https://github.com/DualTachyon/uv-k5-firmware
 - [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
-- [bol-van/zapret](https://github.com/bol-van/zapret) - Обход DPI в linux
+- [bol-van/zapret](https://github.com/bol-van/zapret) - DPI bypass multi platform
 - [cariboulabs/cariboulite](https://github.com/cariboulabs/cariboulite) - CaribouLite turns any 40-pin Raspberry-Pi into a Tx/Rx 6GHz SDR
 - [osqzss/gps-sdr-sim](https://github.com/osqzss/gps-sdr-sim) - Software-Defined GPS Signal Simulator
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
