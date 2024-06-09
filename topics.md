@@ -164,6 +164,7 @@
 
 ## awesome 
 
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 - [caproverhub/caprover-one-click-apps](https://github.com/caproverhub/caprover-one-click-apps) - Repository for Capover One Click Apps
 - [ARPSyndicate/awesome-intelligence](https://github.com/ARPSyndicate/awesome-intelligence) - A collaboratively curated list of awesome Open-Source Intelligence (OSINT) Resources
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
@@ -177,6 +178,7 @@
 
 ## awesome-list 
 
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 - [bcanata/awesome-telsiz](https://github.com/bcanata/awesome-telsiz) - Telsiz Hakkında Kullanışlı Kaynaklar ham-radio radio ham awesome-list awesome-lists
 - [ARPSyndicate/awesome-intelligence](https://github.com/ARPSyndicate/awesome-intelligence) - A collaboratively curated list of awesome Open-Source Intelligence (OSINT) Resources
 - [irazasyed/awesome-cloudflare](https://github.com/irazasyed/awesome-cloudflare) - ⛅️ Curated list of awesome Cloudflare worker recipes, open-source projects, guides, blogs and other resources.
@@ -555,6 +557,7 @@
 
 ## mac 
 
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 - [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Effortless, instant screen sharing.
 
 ## machine-learning 
@@ -563,6 +566,7 @@
 
 ## macos 
 
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 - [gebeto/macos-hacks](https://github.com/gebeto/macos-hacks) - MacOS Apps Hacks
 - [DSchroer/dslcad](https://github.com/DSchroer/dslcad) - DSLCad is a programming language & interpreter for building 3D models.
 - [bol-van/zapret](https://github.com/bol-van/zapret) - DPI bypass multi platform
@@ -899,6 +903,7 @@
 
 ## software 
 
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 - [cariboulabs/cariboulite](https://github.com/cariboulabs/cariboulite) - CaribouLite turns any 40-pin Raspberry-Pi into a Tx/Rx 6GHz SDR
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 
