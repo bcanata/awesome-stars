@@ -147,7 +147,7 @@
 - [Merterm/Etymon](https://github.com/Merterm/Etymon) - Find the origin of words in every language using a Deep Neural Network trained to create an etymological map.
 - [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
 - [craigary/nobelium](https://github.com/craigary/nobelium) - A static blog build on top of Notion and NextJS, deployed on Vercel.
-- [caioluders/server.casino](https://github.com/caioluders/server.casino) - 
+- [caioluders/servers.casino](https://github.com/caioluders/servers.casino) - 
 - [ninjhacks/gsmevil2](https://github.com/ninjhacks/gsmevil2) - GsmEvil 2
 - [Semantic-Org/Semantic-UI](https://github.com/Semantic-Org/Semantic-UI) - Semantic is a UI component framework based around useful principles from natural language.
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
