@@ -733,7 +733,7 @@
 - [Occy88/bots](https://github.com/Occy88/bots) - app automation.
 - [craigary/nobelium](https://github.com/craigary/nobelium) - A static blog build on top of Notion and NextJS, deployed on Vercel.
 - [spencerwooo/react-notion-blog](https://github.com/spencerwooo/react-notion-blog) - Deprecated - original blog see other branch
-- [caioluders/server.casino](https://github.com/caioluders/server.casino) - 
+- [caioluders/servers.casino](https://github.com/caioluders/servers.casino) - 
 - [chriskiehl/Gooey](https://github.com/chriskiehl/Gooey) - Turn (almost) any Python command line program into a full GUI application with one line
 - [ninjhacks/gsmevil2](https://github.com/ninjhacks/gsmevil2) - GsmEvil 2
 - [Semantic-Org/Semantic-UI](https://github.com/Semantic-Org/Semantic-UI) - Semantic is a UI component framework based around useful principles from natural language.
