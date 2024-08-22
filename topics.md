@@ -19,6 +19,7 @@
 - [bitcoin](#bitcoin)
 - [bootstrap](#bootstrap)
 - [bot](#bot)
+- [c-plus-plus](#c-plus-plus)
 - [chatgpt](#chatgpt)
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
@@ -223,6 +224,10 @@
 - [rodrigo-brito/ninjabot](https://github.com/rodrigo-brito/ninjabot) - A fast trading bot platform for cryptocurrency in Go (Binance)
 - [chrisleekr/binance-trading-bot](https://github.com/chrisleekr/binance-trading-bot) - Automated Binance trading bot -  Trade multiple cryptocurrencies. Buy low/sell high with Grid Trading. Integrated with TradingView technical analysis
 - [Fillll/pockebot](https://github.com/Fillll/pockebot) - Read It Later for Telegram
+
+## c-plus-plus 
+
+- [gnss-sdr/gnss-sdr](https://github.com/gnss-sdr/gnss-sdr) - GNSS-SDR, an open-source software-defined GNSS receiver
 
 ## chatgpt 
 
@@ -730,7 +735,6 @@
 - [osqzss/gps-sdr-sim](https://github.com/osqzss/gps-sdr-sim) - Software-Defined GPS Signal Simulator
 - [lzzy12/python-aria-mirror-bot](https://github.com/lzzy12/python-aria-mirror-bot) - A telegram bot for all your mirror needs | OG Repo
 - [bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days) - 50+ mini web projects using HTML, CSS & JS
-- [gnss-sdr/gnss-sdr](https://github.com/gnss-sdr/gnss-sdr) - GNSS-SDR, an open-source software-defined GNSS receiver
 - [Occy88/bots](https://github.com/Occy88/bots) - app automation.
 - [craigary/nobelium](https://github.com/craigary/nobelium) - A static blog build on top of Notion and NextJS, deployed on Vercel.
 - [spencerwooo/react-notion-blog](https://github.com/spencerwooo/react-notion-blog) - Deprecated - original blog see other branch
