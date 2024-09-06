@@ -685,7 +685,6 @@
 - [tynor88/docker-rclone-mount](https://github.com/tynor88/docker-rclone-mount) - Docker for Rclone FUSE mount (exposable to host and other containers)
 - [urlgrey/aprs-dashboard](https://github.com/urlgrey/aprs-dashboard) - Dashboard for APRS messages
 - [YS-L/csvlens](https://github.com/YS-L/csvlens) - Command line csv viewer
-- [hacxx-underground/Files](https://github.com/hacxx-underground/Files) - Directory for Hacxx Underground files
 - [firatsoygul/TurkiyeAmatorRadyoBandiPlani](https://github.com/firatsoygul/TurkiyeAmatorRadyoBandiPlani) - Türkiye Amatör Radyo Bandı Planı Bilgi Grafikleri (IARU 1. Bölge)
 - [RPiks/pico-WSPR-tx](https://github.com/RPiks/pico-WSPR-tx) - WSPR beacon for Raspberry Pi Pico, based on pico-hf-oscillator library. It doesn't require any hardware - Pico board itself only.
 - [UberGuidoZ/Flipper](https://github.com/UberGuidoZ/Flipper) - Playground (and dump) of stuff I make or modify for the Flipper Zero
