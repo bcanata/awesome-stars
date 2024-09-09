@@ -692,7 +692,7 @@
 - [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - LLM inference in C/C++
 - [fagci/uv-k5-firmware-fagci-mod](https://github.com/fagci/uv-k5-firmware-fagci-mod) - OSFW based on https://github.com/DualTachyon/uv-k5-firmware
 - [amnemonic/Quansheng_UV-K5_Firmware](https://github.com/amnemonic/Quansheng_UV-K5_Firmware) - Quansheng UV-K5 Firmware
-- [s0md3v/Blazy](https://github.com/s0md3v/Blazy) - Blazy is a modern login bruteforcer which also tests for CSRF, Clickjacking, Cloudflare and WAF .
+- [s0md3v/Blazy](https://github.com/s0md3v/Blazy) - Intelligent login bruteforcer.
 - [whosmatt/uvmod](https://github.com/whosmatt/uvmod) - Web-based firmware patcher for various Quansheng radios
 - [bcanata/KEGM-CagriIsareti](https://github.com/bcanata/KEGM-CagriIsareti) - Kıyı Emniyeti Genel Müdürlüğü Çağrı İşareti Sorgulama
 - [spm81/Quansheng_UV-K5](https://github.com/spm81/Quansheng_UV-K5) - Quansheng UV-K5
