@@ -159,7 +159,7 @@
 ## MDX 
 
 - [leerob/site](https://github.com/leerob/site) - My site built with Next.js, Tailwind, and Vercel.
-- [tinacms/tina.io](https://github.com/tinacms/tina.io) - Website for TinaCMS - General info, documentation, blogs & contribution guidelines.
+- [tinacms/tina.io](https://github.com/tinacms/tina.io) - Website for TinaCMS 🦙 - General info, documentation, blogs & contribution guidelines.
 
 ## Objective-C 
 
