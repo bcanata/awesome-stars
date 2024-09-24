@@ -692,7 +692,7 @@
 
 ## others 
 
-- [cankurttekin/tcdd-cli](https://github.com/cankurttekin/tcdd-cli) - Get Number of Empty Seats from Turkish Train API Tren Sorgulama Araci
+- [cankurttekin/tcdd-cli](https://github.com/cankurttekin/tcdd-cli) - A tool on your terminal or browser that helps you to find empty seats at Turkish Railways by making requests to TCDD API.
 - [ozancanozdemir/Turkiye-deki-Acik-Veri-Portallari-Open-Data-Portals-in-Turkey-](https://github.com/ozancanozdemir/Turkiye-deki-Acik-Veri-Portallari-Open-Data-Portals-in-Turkey-) - 
 - [cognitivecomputations/github2file](https://github.com/cognitivecomputations/github2file) - 
 - [mitcdh/docker-google-drive-ocamlfuse](https://github.com/mitcdh/docker-google-drive-ocamlfuse) - Mount Google Drive with FUSE within a Docker container
