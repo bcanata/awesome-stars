@@ -92,7 +92,7 @@
 - [urlgrey/aprs-dashboard](https://github.com/urlgrey/aprs-dashboard) - Dashboard for APRS messages
 - [dim13/otpauth](https://github.com/dim13/otpauth) - Google Authenticator migration decoder
 - [m1guelpf/chatgpt-telegram](https://github.com/m1guelpf/chatgpt-telegram) - Run your own GPTChat Telegram bot, with a single command!
-- [usememos/memos](https://github.com/usememos/memos) - An open source, lightweight note-taking service. Easily capture and share your great thoughts.
+- [usememos/memos](https://github.com/usememos/memos) - An open source, lightweight note-taking solution. The pain-less way to create your meaningful notes.
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [darklynx/request-baskets](https://github.com/darklynx/request-baskets) - HTTP requests collector to test webhooks, notifications, REST clients and more ...
 - [m-manu/go-find-duplicates](https://github.com/m-manu/go-find-duplicates) - Find duplicate files (photos, videos, music, documents) on your computer, portable hard drives etc.
@@ -125,7 +125,6 @@
 ## JavaScript 
 
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
-- [cankurttekin/tcdd-cli](https://github.com/cankurttekin/tcdd-cli) - A tool on your terminal or browser that helps you to find empty seats at Turkish Railways by making requests to TCDD API.
 - [catdad/canvas-confetti](https://github.com/catdad/canvas-confetti) - 🎉 performant confetti animation in the browser
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
 - [bcanata/KEGM-CagriIsareti](https://github.com/bcanata/KEGM-CagriIsareti) - Kıyı Emniyeti Genel Müdürlüğü Çağrı İşareti Sorgulama
@@ -237,6 +236,7 @@
 ## Python 
 
 - [dbcli/litecli](https://github.com/dbcli/litecli) - CLI for SQLite Databases with auto-completion and syntax highlighting
+- [cankurttekin/tcdd-cli](https://github.com/cankurttekin/tcdd-cli) - A tool on your terminal or browser that helps you to find empty seats at Turkish Railways by making requests to TCDD API.
 - [cognitivecomputations/github2file](https://github.com/cognitivecomputations/github2file) - 
 - [Dineshkarthik/telegram_media_downloader](https://github.com/Dineshkarthik/telegram_media_downloader) - Download media files from a telegram conversation/chat/channel up to 2GiB per file
 - [kalanakt/All-Url-Uploader](https://github.com/kalanakt/All-Url-Uploader) - A simple telegram Bot, Upload Media File| video To telegram using the direct download link. (youtube, Mediafire, google drive, mega drive, etc)
