@@ -451,6 +451,7 @@
 - [miaowware/qrm2](https://github.com/miaowware/qrm2) - A discord bot with ham radio functions
 - [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
+- [dr5hn/countries-states-cities-database](https://github.com/dr5hn/countries-states-cities-database) - 🌍 Discover our global repository of countries, states, and cities!  🏙️ Get comprehensive data in JSON, SQL, PSQL, XML, YAML, and CSV formats. Access ISO2, ISO3 codes, country code, capital, native lan
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [rodrigo-brito/ninjabot](https://github.com/rodrigo-brito/ninjabot) - A fast trading bot platform for cryptocurrency in Go (Binance)
@@ -692,6 +693,7 @@
 
 ## others 
 
+- [ardabalkandev/numberToWords](https://github.com/ardabalkandev/numberToWords) - Converts numbers to words in TÜRKÇE or ENGLISH
 - [cankurttekin/tcdd-cli](https://github.com/cankurttekin/tcdd-cli) - A tool on your terminal or browser that helps you to find empty seats at Turkish Railways by making requests to TCDD API.
 - [ozancanozdemir/Turkiye-deki-Acik-Veri-Portallari-Open-Data-Portals-in-Turkey-](https://github.com/ozancanozdemir/Turkiye-deki-Acik-Veri-Portallari-Open-Data-Portals-in-Turkey-) - 
 - [cognitivecomputations/github2file](https://github.com/cognitivecomputations/github2file) - 
