@@ -92,7 +92,7 @@
 - [urlgrey/aprs-dashboard](https://github.com/urlgrey/aprs-dashboard) - Dashboard for APRS messages
 - [dim13/otpauth](https://github.com/dim13/otpauth) - Google Authenticator migration decoder
 - [m1guelpf/chatgpt-telegram](https://github.com/m1guelpf/chatgpt-telegram) - Run your own GPTChat Telegram bot, with a single command!
-- [usememos/memos](https://github.com/usememos/memos) - An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes.
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [darklynx/request-baskets](https://github.com/darklynx/request-baskets) - HTTP requests collector to test webhooks, notifications, REST clients and more ...
 - [m-manu/go-find-duplicates](https://github.com/m-manu/go-find-duplicates) - Find duplicate files (photos, videos, music, documents) on your computer, portable hard drives etc.
