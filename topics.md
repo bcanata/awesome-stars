@@ -718,6 +718,7 @@
 
 ## others 
 
+- [bcanata/TelegramEmojiSpamBlocker](https://github.com/bcanata/TelegramEmojiSpamBlocker) - 
 - [ardabalkandev/numberToWords](https://github.com/ardabalkandev/numberToWords) - Converts numbers to words in TÜRKÇE or ENGLISH
 - [cankurttekin/tcdd-cli](https://github.com/cankurttekin/tcdd-cli) - A tool on your terminal or browser that helps you to find empty seats at Turkish Railways by making requests to TCDD API.
 - [ozancanozdemir/Turkiye-deki-Acik-Veri-Portallari-Open-Data-Portals-in-Turkey-](https://github.com/ozancanozdemir/Turkiye-deki-Acik-Veri-Portallari-Open-Data-Portals-in-Turkey-) - 
