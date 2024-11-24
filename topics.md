@@ -720,6 +720,7 @@
 
 ## others 
 
+- [cektor/EnCo](https://github.com/cektor/EnCo) - EnCo is a file locking application developed with Python. This application allows users to lock and unlock their files. locking and unlocking operations are performed with the AES crypto algorithm.
 - [bcanata/TelegramEmojiSpamBlocker](https://github.com/bcanata/TelegramEmojiSpamBlocker) - 
 - [ardabalkandev/numberToWords](https://github.com/ardabalkandev/numberToWords) - Converts numbers to words in TÜRKÇE or ENGLISH
 - [cankurttekin/tcdd-cli](https://github.com/cankurttekin/tcdd-cli) - A tool on your terminal or browser that helps you to find empty seats at Turkish Railways by making requests to TCDD API.
