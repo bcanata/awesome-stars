@@ -240,6 +240,7 @@
 
 ## Python 
 
+- [cektor/EnCo](https://github.com/cektor/EnCo) - EnCo is a file locking application developed with Python. This application allows users to lock and unlock their files. locking and unlocking operations are performed with the AES crypto algorithm.
 - [dbcli/litecli](https://github.com/dbcli/litecli) - CLI for SQLite Databases with auto-completion and syntax highlighting
 - [cankurttekin/tcdd-cli](https://github.com/cankurttekin/tcdd-cli) - A tool on your terminal or browser that helps you to find empty seats at Turkish Railways by making requests to TCDD API.
 - [cognitivecomputations/github2file](https://github.com/cognitivecomputations/github2file) - 
