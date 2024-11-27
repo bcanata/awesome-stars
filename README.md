@@ -126,6 +126,7 @@
 
 ## JavaScript 
 
+- [izuolan/notionic](https://github.com/izuolan/notionic) - Notion + Craft.do + Next.js = Notionic
 - [bcanata/TelegramEmojiSpamBlocker](https://github.com/bcanata/TelegramEmojiSpamBlocker) - 
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 - [catdad/canvas-confetti](https://github.com/catdad/canvas-confetti) - 🎉 performant confetti animation in the browser
@@ -240,7 +241,7 @@
 
 ## Python 
 
-- [cektor/EnCo](https://github.com/cektor/EnCo) - EnCo is a file locking application developed with Python. This application allows users to lock and unlock their files. locking and unlocking operations are performed with the AES crypto algorithm.
+- [cektor/EnCo](https://github.com/cektor/EnCo) - EnCo is a file Encryption application developed with Python. This application allows users to Encrypt and Decrypt their files. Encrypt and Decrypt operations are performed with the AES crypto algorith
 - [dbcli/litecli](https://github.com/dbcli/litecli) - CLI for SQLite Databases with auto-completion and syntax highlighting
 - [cankurttekin/tcdd-cli](https://github.com/cankurttekin/tcdd-cli) - A tool on your terminal or browser that helps you to find empty seats at Turkish Railways by making requests to TCDD API.
 - [cognitivecomputations/github2file](https://github.com/cognitivecomputations/github2file) - 
