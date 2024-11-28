@@ -59,6 +59,7 @@
 
 ## C++ 
 
+- [remipch/solar_concentrator](https://github.com/remipch/solar_concentrator) - Homemade automated solar concentrator 🔧 ☀️ 🔎
 - [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - LLM inference in C/C++
 - [ange-yaghi/engine-sim](https://github.com/ange-yaghi/engine-sim) - Combustion engine simulator that generates realistic audio.
 - [Howchoo/random-bits](https://github.com/Howchoo/random-bits) - Random files that supplement various howchoo guides.
