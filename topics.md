@@ -403,6 +403,7 @@
 
 ## framework 
 
+- [medusajs/medusa](https://github.com/medusajs/medusa) - The world's most flexible commerce platform.
 - [laravel/laravel](https://github.com/laravel/laravel) - Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things.
 
 ## frameworks 
@@ -720,6 +721,7 @@
 
 ## others 
 
+- [remipch/solar_concentrator](https://github.com/remipch/solar_concentrator) - Homemade automated solar concentrator 🔧 ☀️ 🔎
 - [izuolan/notionic](https://github.com/izuolan/notionic) - Notion + Craft.do + Next.js = Notionic
 - [cektor/EnCo](https://github.com/cektor/EnCo) - EnCo is a file Encryption application developed with Python. This application allows users to Encrypt and Decrypt their files. Encrypt and Decrypt operations are performed with the AES crypto algorith
 - [bcanata/TelegramEmojiSpamBlocker](https://github.com/bcanata/TelegramEmojiSpamBlocker) - 
