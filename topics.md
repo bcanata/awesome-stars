@@ -569,7 +569,7 @@
 - [5am-code/laravel-notion-api](https://github.com/5am-code/laravel-notion-api) - Effortless Notion integrations with Laravel
 - [alexeymezenin/laravel-best-practices](https://github.com/alexeymezenin/laravel-best-practices) - Laravel best practices
 - [Kovah/LinkAce](https://github.com/Kovah/LinkAce) - LinkAce is a self-hosted archive to collect links of your favorite websites.
-- [gentritabazi/vue-lumen-starter](https://github.com/gentritabazi/vue-lumen-starter) - 😎 VueJs & Lumen Api Starter.
+- [gent-fella-health/vue-lumen-starter](https://github.com/gent-fella-health/vue-lumen-starter) - 😎 VueJs & Lumen Api Starter.
 - [maxkostinevich/PayMe](https://github.com/maxkostinevich/PayMe) - Checkout payment solution built on Laravel and Stripe API
 - [tnylea/laravel-cashier-examples](https://github.com/tnylea/laravel-cashier-examples) - Examples of using Laravel Cashier v.10
 - [vincentchacha/e-wallet](https://github.com/vincentchacha/e-wallet) - Wallet project based on laravel. The project is integrated with stripe for card payments and paypal APIs. It is 90% complete with features including deposits send money with cool ui. Clone the project
@@ -842,7 +842,7 @@
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [Kovah/LinkAce](https://github.com/Kovah/LinkAce) - LinkAce is a self-hosted archive to collect links of your favorite websites.
 - [magicbug/Cloudlog](https://github.com/magicbug/Cloudlog) - Web based amateur radio logging application built using PHP & MySQL supports general station logging tasks from HF to Microwave with supporting applications to support CAT control.
-- [gentritabazi/vue-lumen-starter](https://github.com/gentritabazi/vue-lumen-starter) - 😎 VueJs & Lumen Api Starter.
+- [gent-fella-health/vue-lumen-starter](https://github.com/gent-fella-health/vue-lumen-starter) - 😎 VueJs & Lumen Api Starter.
 - [aasisvinayak/flymyshop](https://github.com/aasisvinayak/flymyshop) - FlyMyShop : A free open source e-commerce platform for online merchants
 - [butschster/LaravelMetaTags](https://github.com/butschster/LaravelMetaTags) - The most powerful and extendable tools for managing SEO Meta Tags in your Laravel project
 
@@ -1065,7 +1065,7 @@
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [formkit/auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.
 - [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
-- [gentritabazi/vue-lumen-starter](https://github.com/gentritabazi/vue-lumen-starter) - 😎 VueJs & Lumen Api Starter.
+- [gent-fella-health/vue-lumen-starter](https://github.com/gent-fella-health/vue-lumen-starter) - 😎 VueJs & Lumen Api Starter.
 
 ## vuejs 
 
