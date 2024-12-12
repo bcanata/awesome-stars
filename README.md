@@ -225,7 +225,7 @@
 - [5am-code/laravel-notion-api](https://github.com/5am-code/laravel-notion-api) - Effortless Notion integrations with Laravel
 - [Kovah/LinkAce](https://github.com/Kovah/LinkAce) - LinkAce is a self-hosted archive to collect links of your favorite websites.
 - [magicbug/Cloudlog](https://github.com/magicbug/Cloudlog) - Web based amateur radio logging application built using PHP & MySQL supports general station logging tasks from HF to Microwave with supporting applications to support CAT control.
-- [gentritabazi/vue-lumen-starter](https://github.com/gentritabazi/vue-lumen-starter) - 😎 VueJs & Lumen Api Starter.
+- [gent-fella-health/vue-lumen-starter](https://github.com/gent-fella-health/vue-lumen-starter) - 😎 VueJs & Lumen Api Starter.
 - [maxkostinevich/PayMe](https://github.com/maxkostinevich/PayMe) - Checkout payment solution built on Laravel and Stripe API
 - [tnylea/laravel-cashier-examples](https://github.com/tnylea/laravel-cashier-examples) - Examples of using Laravel Cashier v.10
 - [vincentchacha/e-wallet](https://github.com/vincentchacha/e-wallet) - Wallet project based on laravel. The project is integrated with stripe for card payments and paypal APIs. It is 90% complete with features including deposits send money with cool ui. Clone the project
