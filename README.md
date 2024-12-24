@@ -244,6 +244,7 @@
 
 ## Python 
 
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) - Make websites accessible for AI agents
 - [XiaoMi/ha_xiaomi_home](https://github.com/XiaoMi/ha_xiaomi_home) - Xiaomi Home Integration for Home Assistant
 - [flankerhqd/wifimonster](https://github.com/flankerhqd/wifimonster) - Wifi sniffing and hijacking tool
 - [misiektoja/instagram_monitor](https://github.com/misiektoja/instagram_monitor) - Real-time tracking of Instagram users activities and profile changes
