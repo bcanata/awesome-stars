@@ -91,6 +91,7 @@
 
 ## Go 
 
+- [doxx/darkflare](https://github.com/doxx/darkflare) - DarkFlare Firewall Piercing (TCP over CDN)
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models.
 - [urlgrey/aprs-dashboard](https://github.com/urlgrey/aprs-dashboard) - Dashboard for APRS messages
 - [dim13/otpauth](https://github.com/dim13/otpauth) - Google Authenticator migration decoder
@@ -128,6 +129,7 @@
 
 ## JavaScript 
 
+- [huggingface/transformers.js](https://github.com/huggingface/transformers.js) - State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!
 - [izuolan/notionic](https://github.com/izuolan/notionic) - Notion + Craft.do + Next.js = Notionic
 - [bcanata/TelegramEmojiSpamBlocker](https://github.com/bcanata/TelegramEmojiSpamBlocker) - 
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
@@ -318,6 +320,8 @@
 
 ## Swift 
 
+- [tombonez/noTunes](https://github.com/tombonez/noTunes) - A simple macOS application that will prevent iTunes or Apple Music from launching.
+- [pencilresearch/OpenScanner](https://github.com/pencilresearch/OpenScanner) - Fast, reliable, and free document scanner app for iPhone
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - 📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
 
 ## TSQL 
@@ -326,6 +330,7 @@
 
 ## TypeScript 
 
+- [bugbakery/audapolis](https://github.com/bugbakery/audapolis) - an editor for spoken-word audio with automatic transcription
 - [ajnart/subs](https://github.com/ajnart/subs) - Subs ! Track your subscriptions easily
 - [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 The ultimate social media scheduling tool, with a bunch of AI  🤖
 - [yournextstore/yournextstore](https://github.com/yournextstore/yournextstore) - Your Next Store: Modern Commerce with Next.js and Stripe as the backend.
