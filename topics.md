@@ -116,6 +116,7 @@
 - [r](#r)
 - [raspberry-pi](#raspberry-pi)
 - [react](#react)
+- [react-native](#react-native)
 - [reactjs](#reactjs)
 - [rest-api](#rest-api)
 - [rust](#rust)
@@ -935,6 +936,10 @@
 - [transitive-bullshit/nextjs-notion-starter-kit](https://github.com/transitive-bullshit/nextjs-notion-starter-kit) - Deploy your own Notion-powered website in minutes with Next.js and Vercel.
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
 - [redwoodjs/redwood](https://github.com/redwoodjs/redwood) - The App Framework for Startups
+
+## react-native 
+
+- [creativetimofficial/soft-ui-react-native](https://github.com/creativetimofficial/soft-ui-react-native) - Start your development with a Design System for React-Native inspired by Soft UI Design System.
 
 ## reactjs 
 
