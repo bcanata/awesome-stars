@@ -30,7 +30,6 @@
 - [Shell](#shell)
 - [Svelte](#svelte)
 - [Swift](#swift)
-- [TSQL](#tsql)
 - [TypeScript](#typescript)
 - [Visual Basic .NET](#visual-basic-.net)
 - [Vue](#vue)
@@ -226,6 +225,7 @@
 - [tarfin-labs/netgsm](https://github.com/tarfin-labs/netgsm) - netgsm sms package for laravel 8.x, 9.x and 10.x
 - [MarceauKa/shaark](https://github.com/MarceauKa/shaark) - Self-hosted platform to keep and share your content: web links, posts, passwords and pictures.
 - [fp4php/functional](https://github.com/fp4php/functional) - PHP Functional Programming library. Monads, common use functions and generic collections.
+- [dr5hn/countries-states-cities-database](https://github.com/dr5hn/countries-states-cities-database) - 🌍 Discover our global repository of countries, states, and cities!  🏙️ Get comprehensive data in JSON, SQL, PSQL, XML, YAML, and CSV formats. Access ISO2, ISO3 codes, country code, capital, native lan
 - [laravel/laravel](https://github.com/laravel/laravel) - Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things.
 - [5am-code/laravel-notion-api](https://github.com/5am-code/laravel-notion-api) - Effortless Notion integrations with Laravel
 - [Kovah/LinkAce](https://github.com/Kovah/LinkAce) - LinkAce is a self-hosted archive to collect links of your favorite websites.
@@ -325,12 +325,9 @@
 - [pencilresearch/OpenScanner](https://github.com/pencilresearch/OpenScanner) - Fast, reliable, and free document scanner app for iPhone
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - 📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
 
-## TSQL 
-
-- [dr5hn/countries-states-cities-database](https://github.com/dr5hn/countries-states-cities-database) - 🌍 Discover our global repository of countries, states, and cities!  🏙️ Get comprehensive data in JSON, SQL, PSQL, XML, YAML, and CSV formats. Access ISO2, ISO3 codes, country code, capital, native lan
-
 ## TypeScript 
 
+- [creativetimofficial/soft-ui-react-native](https://github.com/creativetimofficial/soft-ui-react-native) - Start your development with a Design System for React-Native inspired by Soft UI Design System.
 - [bugbakery/audapolis](https://github.com/bugbakery/audapolis) - an editor for spoken-word audio with automatic transcription
 - [ajnart/subs](https://github.com/ajnart/subs) - Subs ! Track your subscriptions easily
 - [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 The ultimate social media scheduling tool, with a bunch of AI  🤖
