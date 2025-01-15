@@ -82,7 +82,7 @@
 
 ## Elixir 
 
-- [zoonk/zoonk](https://github.com/zoonk/zoonk) - Platform for creating interactive courses.
+- [zoonk/uneebee](https://github.com/zoonk/uneebee) - Platform for creating interactive courses.
 
 ## GDScript 
 
