@@ -712,6 +712,7 @@
 
 ## open-data 
 
+- [evrifaessa/open-data-turkey](https://github.com/evrifaessa/open-data-turkey) - The most comprehensive open data index of Turkey
 - [kaymal/acik-veri](https://github.com/kaymal/acik-veri) - Türkiye'nin açık veri kaynakları | Curated list of open data platforms of Turkiye
 
 ## open-source 
