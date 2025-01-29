@@ -70,6 +70,7 @@
 - [http](#http)
 - [instagram](#instagram)
 - [ios](#ios)
+- [iot](#iot)
 - [java](#java)
 - [javascript](#javascript)
 - [jekyll](#jekyll)
@@ -524,6 +525,10 @@
 ## ios 
 
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - 📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
+
+## iot 
+
+- [pr3y/Bruce](https://github.com/pr3y/Bruce) - Predatory ESP32 Firmware
 
 ## java 
 
