@@ -144,7 +144,7 @@
 - [Leaflet/Leaflet.markercluster](https://github.com/Leaflet/Leaflet.markercluster) - Marker Clustering plugin for Leaflet
 - [caprover/one-click-apps](https://github.com/caprover/one-click-apps) - Community Maintained One Click Apps (https://github.com/caprover/caprover)
 - [zutrinken/attila](https://github.com/zutrinken/attila) - Ghost Theme
-- [llopisdon/skies-adsb](https://github.com/llopisdon/skies-adsb) - skies-adsb is a real-time 3D browser based web app for tracking aircraft using ADS-B data obtained from a RTL-SDR receiver.
+- [llopisdon/skies-adsb](https://github.com/llopisdon/skies-adsb) - skies-adsb transforms your browser into a real-time 3D air traffic display. Using unfiltered ADS-B data from an RTL-SDR receiver, explore your local air traffic, surrounding airspace, and geography wi
 - [The-EG/OctoPrint-CameraSettings](https://github.com/The-EG/OctoPrint-CameraSettings) - An OctoPrint plugin that allows a user to interactively change camera settings.
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
 - [w0unc/w0unc-discord-bot](https://github.com/w0unc/w0unc-discord-bot) - 
