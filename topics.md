@@ -153,7 +153,7 @@
 
 ## 3d 
 
-- [llopisdon/skies-adsb](https://github.com/llopisdon/skies-adsb) - skies-adsb is a real-time 3D browser based web app for tracking aircraft using ADS-B data obtained from a RTL-SDR receiver.
+- [llopisdon/skies-adsb](https://github.com/llopisdon/skies-adsb) - skies-adsb transforms your browser into a real-time 3D air traffic display. Using unfiltered ADS-B data from an RTL-SDR receiver, explore your local air traffic, surrounding airspace, and geography wi
 - [ad-si/awesome-3d-printing](https://github.com/ad-si/awesome-3d-printing) - A curated list of awesome 3D printing resources
 
 ## ai 
@@ -511,7 +511,7 @@
 
 ## html5 
 
-- [llopisdon/skies-adsb](https://github.com/llopisdon/skies-adsb) - skies-adsb is a real-time 3D browser based web app for tracking aircraft using ADS-B data obtained from a RTL-SDR receiver.
+- [llopisdon/skies-adsb](https://github.com/llopisdon/skies-adsb) - skies-adsb transforms your browser into a real-time 3D air traffic display. Using unfiltered ADS-B data from an RTL-SDR receiver, explore your local air traffic, surrounding airspace, and geography wi
 - [jketterl/openwebrx](https://github.com/jketterl/openwebrx) - Open source, multi-user SDR receiver software with a web interface
 
 ## http 
@@ -543,7 +543,7 @@
 - [epicmaxco/vuestic-ui](https://github.com/epicmaxco/vuestic-ui) - Vuestic UI is an open-source Vue 3 component library designed for rapid development, easy maintenance, and high accessibility. Maintained by Epicmax (@epicmaxco).
 - [mdbootstrap/TW-Elements](https://github.com/mdbootstrap/TW-Elements) - 𝙃𝙪𝙜𝙚 collection of Tailwind MIT licensed (free) components, sections and templates 😎
 - [formkit/auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.
-- [llopisdon/skies-adsb](https://github.com/llopisdon/skies-adsb) - skies-adsb is a real-time 3D browser based web app for tracking aircraft using ADS-B data obtained from a RTL-SDR receiver.
+- [llopisdon/skies-adsb](https://github.com/llopisdon/skies-adsb) - skies-adsb transforms your browser into a real-time 3D air traffic display. Using unfiltered ADS-B data from an RTL-SDR receiver, explore your local air traffic, surrounding airspace, and geography wi
 - [medusajs/medusa](https://github.com/medusajs/medusa) - The world's most flexible commerce platform.
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
@@ -897,7 +897,7 @@
 ## pwa 
 
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
-- [llopisdon/skies-adsb](https://github.com/llopisdon/skies-adsb) - skies-adsb is a real-time 3D browser based web app for tracking aircraft using ADS-B data obtained from a RTL-SDR receiver.
+- [llopisdon/skies-adsb](https://github.com/llopisdon/skies-adsb) - skies-adsb transforms your browser into a real-time 3D air traffic display. Using unfiltered ADS-B data from an RTL-SDR receiver, explore your local air traffic, surrounding airspace, and geography wi
 
 ## python 
 
@@ -917,7 +917,7 @@
 ## python3 
 
 - [Dineshkarthik/telegram_media_downloader](https://github.com/Dineshkarthik/telegram_media_downloader) - Download media files from a telegram conversation/chat/channel up to 2GiB per file
-- [llopisdon/skies-adsb](https://github.com/llopisdon/skies-adsb) - skies-adsb is a real-time 3D browser based web app for tracking aircraft using ADS-B data obtained from a RTL-SDR receiver.
+- [llopisdon/skies-adsb](https://github.com/llopisdon/skies-adsb) - skies-adsb transforms your browser into a real-time 3D air traffic display. Using unfiltered ADS-B data from an RTL-SDR receiver, explore your local air traffic, surrounding airspace, and geography wi
 - [kemalcanbora/EksiApi](https://github.com/kemalcanbora/EksiApi) - Ekşi Sözlük API
 
 ## r 
