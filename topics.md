@@ -753,6 +753,7 @@
 
 ## others 
 
+- [browser-use/macOS-use](https://github.com/browser-use/macOS-use) - 
 - [WB2CBA/DX-FT8-FT8-MULTIBAND-TABLET-TRANSCEIVER](https://github.com/WB2CBA/DX-FT8-FT8-MULTIBAND-TABLET-TRANSCEIVER) - 
 - [goldenhornfrc/robot2024-offseason](https://github.com/goldenhornfrc/robot2024-offseason) - 
 - [bugbakery/audapolis](https://github.com/bugbakery/audapolis) - an editor for spoken-word audio with automatic transcription
