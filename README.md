@@ -251,6 +251,7 @@
 
 ## Python 
 
+- [browser-use/macOS-use](https://github.com/browser-use/macOS-use) - 
 - [naaberhaci/cizgidiyari-scraper](https://github.com/naaberhaci/cizgidiyari-scraper) - ÇizgiDiyarı Mega ve Mediafire linkleri scraper'ı
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - Make websites accessible for AI agents
 - [XiaoMi/ha_xiaomi_home](https://github.com/XiaoMi/ha_xiaomi_home) - Xiaomi Home Integration for Home Assistant
