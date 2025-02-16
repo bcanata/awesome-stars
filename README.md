@@ -60,7 +60,7 @@
 ## C++ 
 
 - [remipch/solar_concentrator](https://github.com/remipch/solar_concentrator) - Homemade automated solar concentrator 🔧 ☀️ 🔎
-- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - LLM inference in C/C++
+- [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
 - [ange-yaghi/engine-sim](https://github.com/ange-yaghi/engine-sim) - Combustion engine simulator that generates realistic audio.
 - [Howchoo/random-bits](https://github.com/Howchoo/random-bits) - Random files that supplement various howchoo guides.
 - [HerMajestyDrMona/Windows11DragAndDropToTaskbarFix](https://github.com/HerMajestyDrMona/Windows11DragAndDropToTaskbarFix) - "Windows 11 Drag & Drop to the Taskbar (Fix)" fixes the missing "Drag & Drop to the Taskbar" support in Windows 11. It works with the new Windows 11 taskbar and does not require nasty changes like Und
@@ -91,6 +91,7 @@
 
 ## Go 
 
+- [tesserato/CodeWeaver](https://github.com/tesserato/CodeWeaver) - Weave your codebase into a single, navigable Markdown document
 - [Madh93/hoarderbot](https://github.com/Madh93/hoarderbot) - 🔖 Telegram Bot for saving bookmarks to Hoarder
 - [doxx/darkflare](https://github.com/doxx/darkflare) - DarkFlare Firewall Piercing (TCP over CDN)
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.
@@ -144,7 +145,7 @@
 - [Leaflet/Leaflet.markercluster](https://github.com/Leaflet/Leaflet.markercluster) - Marker Clustering plugin for Leaflet
 - [caprover/one-click-apps](https://github.com/caprover/one-click-apps) - Community Maintained One Click Apps (https://github.com/caprover/caprover)
 - [zutrinken/attila](https://github.com/zutrinken/attila) - Ghost Theme
-- [llopisdon/skies-adsb](https://github.com/llopisdon/skies-adsb) - skies-adsb transforms your browser into a real-time 3D air traffic display. Using unfiltered ADS-B data from an RTL-SDR receiver, explore your local air traffic, surrounding airspace, and geography wi
+- [machineinteractive/skies-adsb](https://github.com/machineinteractive/skies-adsb) - skies-adsb transforms your browser into a real-time 3D air traffic display. Using unfiltered ADS-B data from an RTL-SDR receiver, explore your local air traffic, surrounding airspace, and geography wi
 - [The-EG/OctoPrint-CameraSettings](https://github.com/The-EG/OctoPrint-CameraSettings) - An OctoPrint plugin that allows a user to interactively change camera settings.
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
 - [w0unc/w0unc-discord-bot](https://github.com/w0unc/w0unc-discord-bot) - 
