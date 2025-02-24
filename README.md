@@ -252,6 +252,8 @@
 
 ## Python 
 
+- [yx-elite/cursor-limit-reset](https://github.com/yx-elite/cursor-limit-reset) - This tool is developed for resetting Cursor editor device IDs to resolve account restrictions when switching accounts or during trial periods.
+- [ultrasev/cursor-reset](https://github.com/ultrasev/cursor-reset) - A script to reset Cursor editor's device identification system. Helps resolve account restrictions and trial-related issues.
 - [browser-use/macOS-use](https://github.com/browser-use/macOS-use) - Make Mac apps accessible for AI agents
 - [naaberhaci/cizgidiyari-scraper](https://github.com/naaberhaci/cizgidiyari-scraper) - ÇizgiDiyarı Mega ve Mediafire linkleri scraper'ı
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - Make websites accessible for AI agents
@@ -307,6 +309,7 @@
 
 ## Shell 
 
+- [yuaotian/go-cursor-help](https://github.com/yuaotian/go-cursor-help) - 解决Cursor在免费订阅期间出现以下提示的问题:  You've reached your trial request limit.  /  Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please l
 - [mitcdh/docker-google-drive-ocamlfuse](https://github.com/mitcdh/docker-google-drive-ocamlfuse) - Mount Google Drive with FUSE within a Docker container
 - [D3Ext/WEF](https://github.com/D3Ext/WEF) - Wi-Fi Exploitation Framework
 - [LoliC0d3/LoliDocker](https://github.com/LoliC0d3/LoliDocker) - dorking google
