@@ -145,7 +145,7 @@
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
 - [bcanata/KEGM-CagriIsareti](https://github.com/bcanata/KEGM-CagriIsareti) - Kıyı Emniyeti Genel Müdürlüğü Çağrı İşareti Sorgulama
 - [caproverhub/caprover-one-click-apps](https://github.com/caproverhub/caprover-one-click-apps) - Repository for Capover One Click Apps
-- [weave-cms/weavecms](https://github.com/weave-cms/weavecms) - Weave is an all-in-one CMS that makes it simpler than ever to build, manage, and publish static sites.
+- [weave-cms/weavecms](https://github.com/weave-cms/weavecms) - Weave (formerly Primo) is a visual CMS that makes it simpler than ever to build, manage, and publish static sites.
 - [yobulkdev/yobulkdev](https://github.com/yobulkdev/yobulkdev) - 🔥 🔥 🔥Open Source & AI driven Data Onboarding Platform:Free flatfile.com alternative
 - [mdbootstrap/TW-Elements](https://github.com/mdbootstrap/TW-Elements) - 𝙃𝙪𝙜𝙚 collection of Tailwind MIT licensed (free) components, sections and templates 😎
 - [Leaflet/Leaflet.markercluster](https://github.com/Leaflet/Leaflet.markercluster) - Marker Clustering plugin for Leaflet
@@ -185,6 +185,7 @@
 
 ## Others 
 
+- [iCHAIT/awesome-macOS](https://github.com/iCHAIT/awesome-macOS) -  A curated list of awesome applications, softwares, tools and shiny things for macOS.
 - [evrifaessa/open-data-turkey](https://github.com/evrifaessa/open-data-turkey) - The most comprehensive open data index of Turkey
 - [WB2CBA/DX-FT8-FT8-MULTIBAND-TABLET-TRANSCEIVER](https://github.com/WB2CBA/DX-FT8-FT8-MULTIBAND-TABLET-TRANSCEIVER) - 
 - [kholia/Budget-RF-Lab](https://github.com/kholia/Budget-RF-Lab) - Build a RF lab on a budget. For homebrewers. For new amateur radio operators.
