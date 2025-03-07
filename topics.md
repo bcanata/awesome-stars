@@ -140,6 +140,7 @@
 - [telegram](#telegram)
 - [terminal](#terminal)
 - [testing](#testing)
+- [trading](#trading)
 - [typescript](#typescript)
 - [vpn](#vpn)
 - [vue](#vue)
@@ -1097,6 +1098,10 @@
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [darklynx/request-baskets](https://github.com/darklynx/request-baskets) - HTTP requests collector to test webhooks, notifications, REST clients and more ...
 - [quii/learn-go-with-tests](https://github.com/quii/learn-go-with-tests) - Learn Go with test-driven development
+
+## trading 
+
+- [rodrigo-brito/ninjabot](https://github.com/rodrigo-brito/ninjabot) - A fast trading bot platform for cryptocurrency in Go (Binance)
 
 ## typescript 
 
