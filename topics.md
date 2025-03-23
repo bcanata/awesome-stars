@@ -97,6 +97,7 @@
 - [mysql](#mysql)
 - [nestjs](#nestjs)
 - [nextjs](#nextjs)
+- [no-code](#no-code)
 - [node](#node)
 - [nodejs](#nodejs)
 - [open-data](#open-data)
@@ -715,6 +716,11 @@
 - [tinacms/tina-cloud-starter](https://github.com/tinacms/tina-cloud-starter) - Next.js starter for TinaCMS: live edit your website visually  🪄
 - [tinacms/tina.io](https://github.com/tinacms/tina.io) - Website for TinaCMS 🦙 - General info, documentation, blogs & contribution guidelines.
 - [transitive-bullshit/nextjs-notion-starter-kit](https://github.com/transitive-bullshit/nextjs-notion-starter-kit) - Deploy your own Notion-powered website in minutes with Next.js and Vercel.
+
+## no-code 
+
+- [rowyio/rowy](https://github.com/rowyio/rowy) - Low-code backend platform. Manage database on spreadsheet-like UI and build cloud functions workflows in JS/TS, all in your browser.
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 
 ## node 
 
