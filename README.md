@@ -117,6 +117,7 @@
 
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [vinitshahdeo/Email-Signature-Template](https://github.com/vinitshahdeo/Email-Signature-Template) - An email signature template made using HTML & CSS - let's make its easier for everyone!
+- [Jieyab89/OSINT-Cheat-sheet](https://github.com/Jieyab89/OSINT-Cheat-sheet) - OSINT cheat sheet, list OSINT tools, wiki, dataset, article, book , red team OSINT for hackers and OSINT tips and OSINT branch. This repository will grow every time will research, there is a research,
 - [shahrviral/Mac-Setup](https://github.com/shahrviral/Mac-Setup) - Buy me a coffee / book / beer
 - [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
 - [gethugothemes/bookworm-light-hugo](https://github.com/gethugothemes/bookworm-light-hugo) - Bookworm is a clean and modern Hugo blog theme focused on high speed and support multiple authors.
@@ -145,7 +146,7 @@
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
 - [bcanata/KEGM-CagriIsareti](https://github.com/bcanata/KEGM-CagriIsareti) - Kıyı Emniyeti Genel Müdürlüğü Çağrı İşareti Sorgulama
 - [caproverhub/caprover-one-click-apps](https://github.com/caproverhub/caprover-one-click-apps) - Repository for Capover One Click Apps
-- [weave-cms/weavecms](https://github.com/weave-cms/weavecms) - Weave (formerly Primo) is a visual CMS that simplifies building, managing, and publishing static sites.
+- [palacms/PalaCMS](https://github.com/palacms/PalaCMS) - Pala (formerly Primo) is a visual CMS that simplifies building, managing, and publishing static sites.
 - [yobulkdev/yobulkdev](https://github.com/yobulkdev/yobulkdev) - 🔥 🔥 🔥Open Source & AI driven Data Onboarding Platform:Free flatfile.com alternative
 - [mdbootstrap/TW-Elements](https://github.com/mdbootstrap/TW-Elements) - 𝙃𝙪𝙜𝙚 collection of Tailwind MIT licensed (free) components, sections and templates 😎
 - [Leaflet/Leaflet.markercluster](https://github.com/Leaflet/Leaflet.markercluster) - Marker Clustering plugin for Leaflet
@@ -194,7 +195,6 @@
 - [ozancanozdemir/Turkiye-deki-Acik-Veri-Portallari-Open-Data-Portals-in-Turkey-](https://github.com/ozancanozdemir/Turkiye-deki-Acik-Veri-Portallari-Open-Data-Portals-in-Turkey-) - 
 - [firatsoygul/TurkiyeAmatorRadyoBandiPlani](https://github.com/firatsoygul/TurkiyeAmatorRadyoBandiPlani) - Türkiye Amatör Radyo Bandı Planı Bilgi Grafikleri (IARU 1. Bölge)
 - [bcanata/awesome-telsiz](https://github.com/bcanata/awesome-telsiz) - Telsiz Hakkında Kullanışlı Kaynaklar
-- [Jieyab89/OSINT-Cheat-sheet](https://github.com/Jieyab89/OSINT-Cheat-sheet) - OSINT cheat sheet, list OSINT tools, wiki, dataset, article, book , red team OSINT for hackers and OSINT tips and OSINT branch. This repository will grow every time will research, there is a research,
 - [3rt4nm4n/turkish-apis](https://github.com/3rt4nm4n/turkish-apis) - List of Turkish APIs. Türk API'leri
 - [sundowndev/hacker-roadmap](https://github.com/sundowndev/hacker-roadmap) - A collection of hacking tools, resources and references to practice ethical hacking.
 - [ARPSyndicate/awesome-intelligence](https://github.com/ARPSyndicate/awesome-intelligence) - A collaboratively curated list of awesome Open-Source Intelligence (OSINT) Resources
