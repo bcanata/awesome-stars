@@ -246,7 +246,7 @@
 
 ## bot 
 
-- [Madh93/hoarderbot](https://github.com/Madh93/hoarderbot) - 🔖 Telegram Bot for saving bookmarks to Hoarder
+- [Madh93/karakeepbot](https://github.com/Madh93/karakeepbot) - 🔖 Telegram Bot for saving bookmarks to Karakeep (previously Hoarder)
 - [kalanakt/All-Url-Uploader](https://github.com/kalanakt/All-Url-Uploader) - A simple telegram Bot, Upload Media File| video To telegram using the direct download link. (youtube, Mediafire, google drive, mega drive, etc)
 - [chiefonboarding/ChiefOnboarding](https://github.com/chiefonboarding/ChiefOnboarding) - Free and open-source employee onboarding platform. Onboard new hires through Slack or the web portal.
 - [rodrigo-brito/ninjabot](https://github.com/rodrigo-brito/ninjabot) - A fast trading bot platform for cryptocurrency in Go (Binance)
@@ -441,7 +441,7 @@
 
 ## go 
 
-- [Madh93/hoarderbot](https://github.com/Madh93/hoarderbot) - 🔖 Telegram Bot for saving bookmarks to Hoarder
+- [Madh93/karakeepbot](https://github.com/Madh93/karakeepbot) - 🔖 Telegram Bot for saving bookmarks to Karakeep (previously Hoarder)
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models.
 - [dim13/otpauth](https://github.com/dim13/otpauth) - Google Authenticator migration decoder
 - [usememos/memos](https://github.com/usememos/memos) - An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.
@@ -452,7 +452,7 @@
 
 ## golang 
 
-- [Madh93/hoarderbot](https://github.com/Madh93/hoarderbot) - 🔖 Telegram Bot for saving bookmarks to Hoarder
+- [Madh93/karakeepbot](https://github.com/Madh93/karakeepbot) - 🔖 Telegram Bot for saving bookmarks to Karakeep (previously Hoarder)
 - [doxx/darkflare](https://github.com/doxx/darkflare) - DarkFlare Firewall Piercing (TCP over CDN)
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models.
 - [m-manu/go-find-duplicates](https://github.com/m-manu/go-find-duplicates) - Find duplicate files (photos, videos, music, documents) on your computer, portable hard drives etc.
@@ -1018,7 +1018,7 @@
 
 ## self-hosted 
 
-- [Madh93/hoarderbot](https://github.com/Madh93/hoarderbot) - 🔖 Telegram Bot for saving bookmarks to Hoarder
+- [Madh93/karakeepbot](https://github.com/Madh93/karakeepbot) - 🔖 Telegram Bot for saving bookmarks to Karakeep (previously Hoarder)
 - [getumbrel/llama-gpt](https://github.com/getumbrel/llama-gpt) - A self-hosted, offline, ChatGPT-like chatbot. Powered by Llama 2. 100% private, with no data leaving your device. New: Code Llama support!
 - [caproverhub/caprover-one-click-apps](https://github.com/caproverhub/caprover-one-click-apps) - Repository for Capover One Click Apps
 - [usememos/memos](https://github.com/usememos/memos) - An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.
@@ -1099,7 +1099,7 @@
 
 ## telegram 
 
-- [Madh93/hoarderbot](https://github.com/Madh93/hoarderbot) - 🔖 Telegram Bot for saving bookmarks to Hoarder
+- [Madh93/karakeepbot](https://github.com/Madh93/karakeepbot) - 🔖 Telegram Bot for saving bookmarks to Karakeep (previously Hoarder)
 - [ItIsMeCall911/Awesome-Telegram-OSINT](https://github.com/ItIsMeCall911/Awesome-Telegram-OSINT) - 📚 A Curated List of Awesome Telegram OSINT Tools, Sites & Resources
 - [Dineshkarthik/telegram_media_downloader](https://github.com/Dineshkarthik/telegram_media_downloader) - Download media files from a telegram conversation/chat/channel up to 2GiB per file
 - [kalanakt/All-Url-Uploader](https://github.com/kalanakt/All-Url-Uploader) - A simple telegram Bot, Upload Media File| video To telegram using the direct download link. (youtube, Mediafire, google drive, mega drive, etc)
