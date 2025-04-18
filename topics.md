@@ -484,6 +484,7 @@
 
 ## hacking 
 
+- [MrTuxx/SocialPwned](https://github.com/MrTuxx/SocialPwned) - SocialPwned is an OSINT tool that allows to get the emails, from a target, published in social networks such as Instagram, Linkedin and Twitter to find possible credentials leaks in PwnDB or Dehashed 
 - [Jieyab89/OSINT-Cheat-sheet](https://github.com/Jieyab89/OSINT-Cheat-sheet) - OSINT cheat sheet, list OSINT tools, wiki, dataset, article, book , red team OSINT for hackers and OSINT tips and OSINT branch. This repository will grow every time will research, there is a research,
 - [LoliC0d3/LoliDocker](https://github.com/LoliC0d3/LoliDocker) - dorking google
 - [sundowndev/hacker-roadmap](https://github.com/sundowndev/hacker-roadmap) - A collection of hacking tools, resources and references to practice ethical hacking.
@@ -540,6 +541,7 @@
 
 ## instagram 
 
+- [MrTuxx/SocialPwned](https://github.com/MrTuxx/SocialPwned) - SocialPwned is an OSINT tool that allows to get the emails, from a target, published in social networks such as Instagram, Linkedin and Twitter to find possible credentials leaks in PwnDB or Dehashed 
 - [misiektoja/instagram_monitor](https://github.com/misiektoja/instagram_monitor) - Real-time tracking of Instagram users activities and profile changes
 
 ## ios 
@@ -772,6 +774,7 @@
 
 ## osint 
 
+- [MrTuxx/SocialPwned](https://github.com/MrTuxx/SocialPwned) - SocialPwned is an OSINT tool that allows to get the emails, from a target, published in social networks such as Instagram, Linkedin and Twitter to find possible credentials leaks in PwnDB or Dehashed 
 - [misiektoja/instagram_monitor](https://github.com/misiektoja/instagram_monitor) - Real-time tracking of Instagram users activities and profile changes
 - [ItIsMeCall911/Awesome-Telegram-OSINT](https://github.com/ItIsMeCall911/Awesome-Telegram-OSINT) - 📚 A Curated List of Awesome Telegram OSINT Tools, Sites & Resources
 - [coldvisionz/osint-investigation](https://github.com/coldvisionz/osint-investigation) - Useful OSINT tools
