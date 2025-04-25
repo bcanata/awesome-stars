@@ -260,6 +260,9 @@
 
 ## Python 
 
+- [chengazhen/cursor-auto-free](https://github.com/chengazhen/cursor-auto-free) - auto sign cursor
+- [SharadKumar97/OSINT-SPY](https://github.com/SharadKumar97/OSINT-SPY) - Performs OSINT scan on email/domain/ip_address/organization using OSINT-SPY. It can be used by Data Miners, Infosec Researchers, Penetration Testers and cyber crime investigator in order to find deep 
+- [cektor/EnCo](https://github.com/cektor/EnCo) - EnCo is a Cross-Platform file Encryption application developed in Python. This application allows users to Encrypt and Decrypt their files. Encrypt and Decrypt operations are performed with the AES cr
 - [nari-labs/dia](https://github.com/nari-labs/dia) - A TTS model capable of generating ultra-realistic dialogue in one pass.
 - [MrTuxx/SocialPwned](https://github.com/MrTuxx/SocialPwned) - SocialPwned is an OSINT tool that allows to get the emails, from a target, published in social networks such as Instagram, Linkedin and Twitter to find possible credentials leaks in PwnDB or Dehashed 
 - [yx-elite/cursor-limit-reset](https://github.com/yx-elite/cursor-limit-reset) - This tool is developed for resetting Cursor editor device IDs to resolve account restrictions when switching accounts or during trial periods.
@@ -270,7 +273,6 @@
 - [XiaoMi/ha_xiaomi_home](https://github.com/XiaoMi/ha_xiaomi_home) - Xiaomi Home Integration for Home Assistant
 - [flankerhqd/wifimonster](https://github.com/flankerhqd/wifimonster) - Wifi sniffing and hijacking tool
 - [misiektoja/instagram_monitor](https://github.com/misiektoja/instagram_monitor) - Real-time tracking of Instagram users activities and profile changes
-- [cektor/EnCo](https://github.com/cektor/EnCo) - EnCo is a Cross-Platform file Encryption application developed in Python. This application allows users to Encrypt and Decrypt their files. Encrypt and Decrypt operations are performed with the AES cr
 - [dbcli/litecli](https://github.com/dbcli/litecli) - CLI for SQLite Databases with auto-completion and syntax highlighting
 - [cankurttekin/tcdd-cli](https://github.com/cankurttekin/tcdd-cli) - A tool on your terminal or browser that helps you to find empty seats at Turkish Railways by making requests to TCDD API.
 - [cognitivecomputations/github2file](https://github.com/cognitivecomputations/github2file) - 
@@ -310,6 +312,7 @@
 
 ## Rust 
 
+- [DCNick3/f-xoss](https://github.com/DCNick3/f-xoss) - Free your Xoss device: a cloud-free reimplementation of Xoss companion app
 - [YS-L/csvlens](https://github.com/YS-L/csvlens) - Command line csv viewer
 - [DSchroer/dslcad](https://github.com/DSchroer/dslcad) - DSLCad is a programming language & interpreter for building 3D models.
 - [headwaymaps/headway](https://github.com/headwaymaps/headway) - Self-hostable maps stack, powered by OpenStreetMap.
@@ -346,6 +349,7 @@
 
 ## TypeScript 
 
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Tunneled Mesh Reverse Proxy Server with Identity and Access Control and Dashboard UI
 - [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL
 - [creativetimofficial/soft-ui-react-native](https://github.com/creativetimofficial/soft-ui-react-native) - Start your development with a Design System for React-Native inspired by Soft UI Design System.
 - [bugbakery/audapolis](https://github.com/bugbakery/audapolis) - an editor for spoken-word audio with automatic transcription
