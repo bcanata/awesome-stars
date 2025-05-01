@@ -242,7 +242,7 @@
 - [dr5hn/countries-states-cities-database](https://github.com/dr5hn/countries-states-cities-database) - 🌍 Discover our global repository of countries, states, and cities!  🏙️ Get comprehensive data in JSON, SQL, PSQL, SQLSERVER, MONGODB, SQLITE, XML, YAML, and CSV formats. Access ISO2, ISO3 codes, count
 - [5am-code/laravel-notion-api](https://github.com/5am-code/laravel-notion-api) - Effortless Notion integrations with Laravel
 - [Kovah/LinkAce](https://github.com/Kovah/LinkAce) - LinkAce is a self-hosted archive to collect links of your favorite websites.
-- [magicbug/Cloudlog](https://github.com/magicbug/Cloudlog) - Web based amateur radio logging application built using PHP & MySQL supports general station logging tasks from HF to Microwave with supporting applications to support CAT control.
+- [magicbug/Cloudlog](https://github.com/magicbug/Cloudlog) - Cloudlog is a web-based amateur radio logging application built with PHP and MySQL. It supports a wide range of station logging activities, from HF to microwave, and integrates with companion tools fo
 - [gent-fella-health/vue-lumen-starter](https://github.com/gent-fella-health/vue-lumen-starter) - 😎 VueJs & Lumen Api Starter.
 - [maxkostinevich/PayMe](https://github.com/maxkostinevich/PayMe) - Checkout payment solution built on Laravel and Stripe API
 - [tnylea/laravel-cashier-examples](https://github.com/tnylea/laravel-cashier-examples) - Examples of using Laravel Cashier v.10
