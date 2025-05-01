@@ -917,7 +917,7 @@
 - [5am-code/laravel-notion-api](https://github.com/5am-code/laravel-notion-api) - Effortless Notion integrations with Laravel
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [Kovah/LinkAce](https://github.com/Kovah/LinkAce) - LinkAce is a self-hosted archive to collect links of your favorite websites.
-- [magicbug/Cloudlog](https://github.com/magicbug/Cloudlog) - Web based amateur radio logging application built using PHP & MySQL supports general station logging tasks from HF to Microwave with supporting applications to support CAT control.
+- [magicbug/Cloudlog](https://github.com/magicbug/Cloudlog) - Cloudlog is a web-based amateur radio logging application built with PHP and MySQL. It supports a wide range of station logging activities, from HF to microwave, and integrates with companion tools fo
 - [gent-fella-health/vue-lumen-starter](https://github.com/gent-fella-health/vue-lumen-starter) - 😎 VueJs & Lumen Api Starter.
 - [aasisvinayak/flymyshop](https://github.com/aasisvinayak/flymyshop) - FlyMyShop : A free open source e-commerce platform for online merchants
 - [butschster/LaravelMetaTags](https://github.com/butschster/LaravelMetaTags) - The most powerful and extendable tools for managing SEO Meta Tags in your Laravel project
