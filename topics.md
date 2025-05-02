@@ -187,6 +187,7 @@
 
 ## automation 
 
+- [Ryan0204/cursor-auto-icloud](https://github.com/Ryan0204/cursor-auto-icloud) - Reset Cursor MachineID & Auto Sign Up New Account with Cursor Pro // 自动注册 Cursor AI (免费使用Pro功能) & 自动重置机器ID  // You've reached your trial request limit. / Too many free trial accounts used on this mach
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 
 ## awesome 
