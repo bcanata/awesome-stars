@@ -193,7 +193,7 @@
 - [kholia/Budget-RF-Lab](https://github.com/kholia/Budget-RF-Lab) - Build a RF lab on a budget. For homebrewers. For new amateur radio operators.
 - [ItIsMeCall911/Awesome-Telegram-OSINT](https://github.com/ItIsMeCall911/Awesome-Telegram-OSINT) - 📚 A Curated List of Awesome Telegram OSINT Tools, Sites & Resources
 - [coldvisionz/osint-investigation](https://github.com/coldvisionz/osint-investigation) - Useful OSINT tools
-- [kaymal/acik-veri](https://github.com/kaymal/acik-veri) - Türkiye'nin açık veri kaynakları | Curated list of open data platforms of Turkiye
+- [kaymal/acik-veri](https://github.com/kaymal/acik-veri) - Curated list of open data platforms of Turkiye | Türkiye'nin açık veri kaynakları
 - [ozancanozdemir/Turkiye-deki-Acik-Veri-Portallari-Open-Data-Portals-in-Turkey-](https://github.com/ozancanozdemir/Turkiye-deki-Acik-Veri-Portallari-Open-Data-Portals-in-Turkey-) - 
 - [firatsoygul/TurkiyeAmatorRadyoBandiPlani](https://github.com/firatsoygul/TurkiyeAmatorRadyoBandiPlani) - Türkiye Amatör Radyo Bandı Planı Bilgi Grafikleri (IARU 1. Bölge)
 - [bcanata/awesome-telsiz](https://github.com/bcanata/awesome-telsiz) - Telsiz Hakkında Kullanışlı Kaynaklar
