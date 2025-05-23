@@ -793,6 +793,7 @@
 
 ## others 
 
+- [saidsurucu/yargi-mcp](https://github.com/saidsurucu/yargi-mcp) - MCP Server For Turkish Legal Databases
 - [chengazhen/cursor-auto-free](https://github.com/chengazhen/cursor-auto-free) - auto sign cursor
 - [DCNick3/f-xoss](https://github.com/DCNick3/f-xoss) - Free your Xoss device: a cloud-free reimplementation of Xoss companion app
 - [SharadKumar97/OSINT-SPY](https://github.com/SharadKumar97/OSINT-SPY) - Performs OSINT scan on email/domain/ip_address/organization using OSINT-SPY. It can be used by Data Miners, Infosec Researchers, Penetration Testers and cyber crime investigator in order to find deep 
