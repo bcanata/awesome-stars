@@ -793,6 +793,7 @@
 
 ## others 
 
+- [hasaneyldrm/cursor-rules](https://github.com/hasaneyldrm/cursor-rules) - Cursor rule'larını topladığım github repositorysi
 - [chatmcp/mcpso](https://github.com/chatmcp/mcpso) - directory for Awesome MCP Servers
 - [saidsurucu/yargi-mcp](https://github.com/saidsurucu/yargi-mcp) - MCP Server For Turkish Legal Databases
 - [chengazhen/cursor-auto-free](https://github.com/chengazhen/cursor-auto-free) - auto sign cursor
