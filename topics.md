@@ -793,6 +793,7 @@
 
 ## others 
 
+- [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
 - [hasaneyldrm/cursor-rules](https://github.com/hasaneyldrm/cursor-rules) - Cursor rule'larını topladığım github repositorysi
 - [chatmcp/mcpso](https://github.com/chatmcp/mcpso) - directory for Awesome MCP Servers
 - [saidsurucu/yargi-mcp](https://github.com/saidsurucu/yargi-mcp) - MCP Server For Turkish Legal Databases
