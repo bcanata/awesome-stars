@@ -155,6 +155,7 @@
 - [vuejs](#vuejs)
 - [web](#web)
 - [webapp](#webapp)
+- [website](#website)
 - [windows](#windows)
 - [wordpress](#wordpress)
 - [xcode](#xcode)
@@ -711,6 +712,7 @@
 
 ## music 
 
+- [karolkozer/planby](https://github.com/karolkozer/planby) - 
 - [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
 - [IrosTheBeggar/mStream](https://github.com/IrosTheBeggar/mStream) - The easiest music streaming server available
 
@@ -987,6 +989,7 @@
 
 ## react 
 
+- [karolkozer/planby](https://github.com/karolkozer/planby) - 
 - [ajnart/subs](https://github.com/ajnart/subs) - Subs ! Track your subscriptions easily
 - [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
@@ -1206,6 +1209,7 @@
 
 ## web 
 
+- [karolkozer/planby](https://github.com/karolkozer/planby) - 
 - [serge-chat/serge](https://github.com/serge-chat/serge) - A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
@@ -1213,6 +1217,10 @@
 ## webapp 
 
 - [H-M-H/Weylus](https://github.com/H-M-H/Weylus) - Use your tablet as graphic tablet/touch screen on your computer.
+
+## website 
+
+- [karolkozer/planby](https://github.com/karolkozer/planby) - 
 
 ## windows 
 
