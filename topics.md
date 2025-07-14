@@ -829,7 +829,7 @@
 - [ardabalkandev/numberToWords](https://github.com/ardabalkandev/numberToWords) - Converts numbers to words in TÜRKÇE or ENGLISH
 - [cankurttekin/tcdd-cli](https://github.com/cankurttekin/tcdd-cli) - A tool on your terminal or browser that helps you to find empty seats at Turkish Railways by making requests to TCDD API.
 - [ozancanozdemir/Turkiye-deki-Acik-Veri-Portallari-Open-Data-Portals-in-Turkey-](https://github.com/ozancanozdemir/Turkiye-deki-Acik-Veri-Portallari-Open-Data-Portals-in-Turkey-) - 
-- [cognitivecomputations/github2file](https://github.com/cognitivecomputations/github2file) - 
+- [QuixiAI/github2file](https://github.com/QuixiAI/github2file) - 
 - [mitcdh/docker-google-drive-ocamlfuse](https://github.com/mitcdh/docker-google-drive-ocamlfuse) - Mount Google Drive with FUSE within a Docker container
 - [zpbd/GoogleDriveOrphanedFileRestorer](https://github.com/zpbd/GoogleDriveOrphanedFileRestorer) - If you restore trashed files in Google Team Drive that were in trashed folders, they can be orphaned in the root. This console application can restore them to their original folders.
 - [tynor88/docker-rclone-mount](https://github.com/tynor88/docker-rclone-mount) - Docker for Rclone FUSE mount (exposable to host and other containers)
