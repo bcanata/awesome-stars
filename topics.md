@@ -802,6 +802,7 @@
 
 ## others 
 
+- [YM1KTC/ARC-Web-Sitesi](https://github.com/YM1KTC/ARC-Web-Sitesi) - 
 - [andycufari/ClaudePoint](https://github.com/andycufari/ClaudePoint) - 
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
 - [hasaneyldrm/cursor-rules](https://github.com/hasaneyldrm/cursor-rules) - Cursor rule'larını topladığım github repositorysi
