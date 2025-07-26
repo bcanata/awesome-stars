@@ -809,6 +809,7 @@
 
 ## others 
 
+- [iannuttall/claude-agents](https://github.com/iannuttall/claude-agents) - Custom subagents to use with Claude Code.
 - [pranav-deshmukh/blender-mcp](https://github.com/pranav-deshmukh/blender-mcp) - 
 - [YM1KTC/ARC-Web-Sitesi](https://github.com/YM1KTC/ARC-Web-Sitesi) - 
 - [andycufari/ClaudePoint](https://github.com/andycufari/ClaudePoint) - 
