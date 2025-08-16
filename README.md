@@ -356,7 +356,7 @@
 ## Svelte 
 
 - [serge-chat/serge](https://github.com/serge-chat/serge) - A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
-- [palalabs/palacms](https://github.com/palalabs/palacms) - Pala (formerly Primo) is a modern monolithic CMS that gives devs the control they need and content editors the simplicity they've always wanted.
+- [palacms/palacms](https://github.com/palacms/palacms) - Pala (formerly Primo) is a modern monolithic CMS that gives devs the control they need and content editors the simplicity they've always wanted.
 
 ## Swift 
 
