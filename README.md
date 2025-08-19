@@ -20,6 +20,7 @@
 - [Handlebars](#handlebars)
 - [Java](#java)
 - [JavaScript](#javascript)
+- [Lua](#lua)
 - [MDX](#mdx)
 - [Nix](#nix)
 - [Objective-C](#objective-c)
@@ -182,6 +183,10 @@
 - [pcarion/gatsby-source-notionso-example](https://github.com/pcarion/gatsby-source-notionso-example) - Example of use of the gatsby-source-notionso plugin. Site is available at: https://www.gatsbyplugins.com/
 - [t9tio/cloudquery](https://github.com/t9tio/cloudquery) - Turn any website to API by several clicks (serverless and support SPA!)
 
+## Lua 
+
+- [ZlibraryKO/zlibrary.koplugin](https://github.com/ZlibraryKO/zlibrary.koplugin) - Home of the KOReader Zlibrary plugin
+
 ## MDX 
 
 - [tinacms/tina.io](https://github.com/tinacms/tina.io) - Website for TinaCMS 🦙 - General info, documentation, blogs & contribution guidelines.
@@ -312,7 +317,7 @@
 - [realsuayip/django-sozluk](https://github.com/realsuayip/django-sozluk) - an exhaustive ekşi sözlük clone, powered by Python
 - [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
-- [lzzy12/python-aria-mirror-bot](https://github.com/lzzy12/python-aria-mirror-bot) - A telegram bot for all your mirror needs | OG Repo
+- [shivamdev-lgtm/python-aria-mirror-bot](https://github.com/shivamdev-lgtm/python-aria-mirror-bot) - A telegram bot for all your mirror needs | OG Repo
 - [jketterl/openwebrx](https://github.com/jketterl/openwebrx) - Open source, multi-user SDR receiver software with a web interface
 - [Occy88/bots](https://github.com/Occy88/bots) - app automation.
 - [chriskiehl/Gooey](https://github.com/chriskiehl/Gooey) - Turn (almost) any Python command line program into a full GUI application with one line
