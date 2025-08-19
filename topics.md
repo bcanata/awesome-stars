@@ -792,6 +792,7 @@
 
 ## open-source 
 
+- [ZlibraryKO/zlibrary.koplugin](https://github.com/ZlibraryKO/zlibrary.koplugin) - Home of the KOReader Zlibrary plugin
 - [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 The ultimate social media scheduling tool, with a bunch of AI  🤖
 - [JhumanJ/OpnForm](https://github.com/JhumanJ/OpnForm) - Beautiful Open-Source Form Builder
 - [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
@@ -1183,7 +1184,7 @@
 - [kalanakt/All-Url-Uploader](https://github.com/kalanakt/All-Url-Uploader) - A simple telegram Bot, Upload Media File| video To telegram using the direct download link. (youtube, Mediafire, google drive, mega drive, etc)
 - [RafalWilinski/telegram-chatgpt-concierge-bot](https://github.com/RafalWilinski/telegram-chatgpt-concierge-bot) - Interact with OpenAI's ChatGPT via Telegram and Voice.
 - [m1guelpf/chatgpt-telegram](https://github.com/m1guelpf/chatgpt-telegram) - Run your own GPTChat Telegram bot, with a single command!
-- [lzzy12/python-aria-mirror-bot](https://github.com/lzzy12/python-aria-mirror-bot) - A telegram bot for all your mirror needs | OG Repo
+- [shivamdev-lgtm/python-aria-mirror-bot](https://github.com/shivamdev-lgtm/python-aria-mirror-bot) - A telegram bot for all your mirror needs | OG Repo
 - [TediCross/TediCross](https://github.com/TediCross/TediCross) - Bot which bridges Telegram chats with Discord channels
 - [Fillll/pockebot](https://github.com/Fillll/pockebot) - Read It Later for Telegram
 
