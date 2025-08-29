@@ -141,11 +141,14 @@
 
 ## Java 
 
+- [booklore-app/booklore](https://github.com/booklore-app/booklore) - BookLore is a self-hosted app for managing and reading books & comics (PDF, EPUB, CBZ) with metadata editing, OPDS, reading progress, and multi-user support.
 - [goldenhornfrc/robot2024-offseason](https://github.com/goldenhornfrc/robot2024-offseason) - 
 - [mapbox/mapbox-android-demo](https://github.com/mapbox/mapbox-android-demo) - Google Play demo app for the Mapbox Maps SDK for Android
 
 ## JavaScript 
 
+- [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) - Calibre-Web but automated and with Calibre features! Fully automate and simplify your eBook set up!
+- [koodo-reader/koodo-reader](https://github.com/koodo-reader/koodo-reader) - A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux, Android, iOS and Web
 - [enesutku/Localization-CLI](https://github.com/enesutku/Localization-CLI) - A command-line tool that auto-translates iOS localization files via multiple AI providers, supporting 70+ languages with flexible source language options.
 - [andycufari/ClaudePoint](https://github.com/andycufari/ClaudePoint) - 
 - [bcanata/bluesky-follower-checker](https://github.com/bcanata/bluesky-follower-checker) - 
@@ -344,6 +347,7 @@
 
 ## Shell 
 
+- [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!
 - [yuaotian/go-cursor-help](https://github.com/yuaotian/go-cursor-help) - 解决Cursor在免费订阅期间出现以下提示的问题:  Your request has been blocked as our system has detected suspicious activity / You've reached your trial request limit.  /  Too many free trial accounts used on this machine
 - [mitcdh/docker-google-drive-ocamlfuse](https://github.com/mitcdh/docker-google-drive-ocamlfuse) - Mount Google Drive with FUSE within a Docker container
 - [D3Ext/WEF](https://github.com/D3Ext/WEF) - Wi-Fi Exploitation Framework
@@ -372,6 +376,7 @@
 
 ## TypeScript 
 
+- [readest/readest](https://github.com/readest/readest) - Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading experience.
 - [iam4x/bobarr](https://github.com/iam4x/bobarr) - 🍿 The all-in-one alternative for Sonarr, Radarr, Jackett... with a VPN and running in docker
 - [karolkozer/planby](https://github.com/karolkozer/planby) - 
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
