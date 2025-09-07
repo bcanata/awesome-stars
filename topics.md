@@ -849,6 +849,7 @@
 
 ## others 
 
+- [Adam-CAD/CADAM](https://github.com/Adam-CAD/CADAM) - 
 - [RichardAtCT/claude-code-telegram](https://github.com/RichardAtCT/claude-code-telegram) - A powerful Telegram bot that provides remote access to Claude Code, enabling developers to interact with their projects from anywhere with full AI assistance and session persistence.
 - [enesutku/Localization-CLI](https://github.com/enesutku/Localization-CLI) - A command-line tool that auto-translates iOS localization files via multiple AI providers, supporting 70+ languages with flexible source language options.
 - [iannuttall/claude-agents](https://github.com/iannuttall/claude-agents) - Custom subagents to use with Claude Code.
