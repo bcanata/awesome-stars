@@ -380,6 +380,7 @@
 
 ## TypeScript 
 
+- [trevor-amta/claude-code-model-switcher](https://github.com/trevor-amta/claude-code-model-switcher) - Switch between Anthropic Claude models and Z.ai GLM models in Claude Code
 - [Adam-CAD/CADAM](https://github.com/Adam-CAD/CADAM) - 
 - [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Qualtrics Alternative
 - [ohmyform/ohmyform](https://github.com/ohmyform/ohmyform) - ✏️ Free open source alternative to TypeForm, TellForm, or Google Forms ⛺
