@@ -339,6 +339,7 @@
 
 ## computer-science 
 
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
 
 ## cpp 
@@ -860,6 +861,8 @@
 
 ## others 
 
+- [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) - all of the workflows of n8n i could find (also from the site itself)
+- [CodebuffAI/codebuff](https://github.com/CodebuffAI/codebuff) - Generate code from the terminal!
 - [trevor-amta/claude-code-model-switcher](https://github.com/trevor-amta/claude-code-model-switcher) - Switch between Anthropic Claude models and Z.ai GLM models in Claude Code
 - [RichardAtCT/claude-code-telegram](https://github.com/RichardAtCT/claude-code-telegram) - A powerful Telegram bot that provides remote access to Claude Code, enabling developers to interact with their projects from anywhere with full AI assistance and session persistence.
 - [enesutku/Localization-CLI](https://github.com/enesutku/Localization-CLI) - A command-line tool that auto-translates iOS localization files via multiple AI providers, supporting 70+ languages with flexible source language options.
