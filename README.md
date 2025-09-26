@@ -40,7 +40,7 @@
 
 ## Astro 
 
-- [GOAT-8092/website](https://github.com/GOAT-8092/website) - Official website for FRC Team G.O.A.T. 8092 - Greatest Of All Times from Tekirdağ, Turkey. Built with Astro, TypeScript, and Tailwind CSS.
+- [GOAT-8092/8092.tr](https://github.com/GOAT-8092/8092.tr) - Official website for FRC Team G.O.A.T. 8092 - Greatest Of All Times from Tekirdağ, Turkey. Built with Astro, TypeScript, and Tailwind CSS.
 - [YM1KTC/ARC-Web-Sitesi](https://github.com/YM1KTC/ARC-Web-Sitesi) - 
 
 ## Batchfile 
