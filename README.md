@@ -282,6 +282,7 @@
 
 ## Python 
 
+- [bcanata/dokploy-sozluk](https://github.com/bcanata/dokploy-sozluk) - an exhaustive ekşi sözlük clone, powered by Python
 - [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) - all of the workflows of n8n i could find (also from the site itself)
 - [RichardAtCT/claude-code-telegram](https://github.com/RichardAtCT/claude-code-telegram) - A powerful Telegram bot that provides remote access to Claude Code, enabling developers to interact with their projects from anywhere with full AI assistance and session persistence.
 - [pranav-deshmukh/blender-mcp](https://github.com/pranav-deshmukh/blender-mcp) - 
@@ -339,6 +340,7 @@
 
 ## Rust 
 
+- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
 - [DCNick3/f-xoss](https://github.com/DCNick3/f-xoss) - Free your Xoss device: a cloud-free reimplementation of Xoss companion app
 - [YS-L/csvlens](https://github.com/YS-L/csvlens) - Command line csv viewer
 - [DSchroer/dslcad](https://github.com/DSchroer/dslcad) - DSLCad is a programming language & interpreter for building 3D models.
@@ -379,6 +381,7 @@
 
 ## TypeScript 
 
+- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
 - [CodebuffAI/codebuff](https://github.com/CodebuffAI/codebuff) - Generate code from the terminal!
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [trevor-amta/claude-code-model-switcher](https://github.com/trevor-amta/claude-code-model-switcher) - Switch between Anthropic Claude models and Z.ai GLM models in Claude Code
