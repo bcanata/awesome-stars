@@ -9,6 +9,7 @@
 - [ai](#ai)
 - [android](#android)
 - [angular](#angular)
+- [ansible](#ansible)
 - [api](#api)
 - [automation](#automation)
 - [awesome](#awesome)
@@ -35,6 +36,7 @@
 - [computer-science](#computer-science)
 - [cpp](#cpp)
 - [cryptocurrency](#cryptocurrency)
+- [cryptography](#cryptography)
 - [css](#css)
 - [cybersecurity](#cybersecurity)
 - [data](#data)
@@ -73,6 +75,7 @@
 - [hacking-tools](#hacking-tools)
 - [hacktoberfest](#hacktoberfest)
 - [home-assistant](#home-assistant)
+- [homebridge](#homebridge)
 - [html](#html)
 - [html5](#html5)
 - [http](#http)
@@ -199,8 +202,13 @@
 
 - [booklore-app/booklore](https://github.com/booklore-app/booklore) - BookLore is a self-hosted app for managing and reading books & comics (PDF, EPUB, CBZ) with metadata editing, OPDS, reading progress, and multi-user support.
 
+## ansible 
+
+- [predmijat/realworlddevopscourse](https://github.com/predmijat/realworlddevopscourse) - Accompanying files for "Real world Devops project from start to finish" course
+
 ## api 
 
+- [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
 - [3rt4nm4n/turkish-apis](https://github.com/3rt4nm4n/turkish-apis) - List of Turkish APIs. Türk API'leri
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [kemalcanbora/EksiApi](https://github.com/kemalcanbora/EksiApi) - Ekşi Sözlük API
@@ -218,6 +226,7 @@
 
 ## awesome 
 
+- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 - [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!
 - [fishttp/awesome-bluesky](https://github.com/fishttp/awesome-bluesky) - A list of all known tools available for the Bluesky platform
 - [iCHAIT/awesome-macOS](https://github.com/iCHAIT/awesome-macOS) -  A curated list of awesome applications, softwares, tools and shiny things for macOS.
@@ -236,6 +245,7 @@
 
 ## awesome-list 
 
+- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 - [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!
 - [fishttp/awesome-bluesky](https://github.com/fishttp/awesome-bluesky) - A list of all known tools available for the Bluesky platform
 - [iCHAIT/awesome-macOS](https://github.com/iCHAIT/awesome-macOS) -  A curated list of awesome applications, softwares, tools and shiny things for macOS.
@@ -324,6 +334,7 @@
 
 ## cli 
 
+- [benbusby/yeetfile](https://github.com/benbusby/yeetfile) - A self-hosted service for encrypted file sharing and storage
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
@@ -331,6 +342,7 @@
 
 ## cloud 
 
+- [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 
@@ -361,6 +373,10 @@
 
 - [rodrigo-brito/ninjabot](https://github.com/rodrigo-brito/ninjabot) - A fast trading bot platform for cryptocurrency in Go (Binance)
 - [chrisleekr/binance-trading-bot](https://github.com/chrisleekr/binance-trading-bot) - Automated Binance trading bot -  Trade multiple cryptocurrencies. Buy low/sell high with Grid Trading. Integrated with TradingView technical analysis
+
+## cryptography 
+
+- [benbusby/yeetfile](https://github.com/benbusby/yeetfile) - A self-hosted service for encrypted file sharing and storage
 
 ## css 
 
@@ -421,6 +437,7 @@
 
 ## devops 
 
+- [predmijat/realworlddevopscourse](https://github.com/predmijat/realworlddevopscourse) - Accompanying files for "Real world Devops project from start to finish" course
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 
 ## discord 
@@ -434,6 +451,7 @@
 
 ## docker 
 
+- [predmijat/realworlddevopscourse](https://github.com/predmijat/realworlddevopscourse) - Accompanying files for "Real world Devops project from start to finish" course
 - [ohmyform/ohmyform](https://github.com/ohmyform/ohmyform) - ✏️ Free open source alternative to TypeForm, TellForm, or Google Forms ⛺
 - [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) - Calibre-Web but Automated and with Many New Features! Fully automate and simplify your eBook set up!
 - [iam4x/bobarr](https://github.com/iam4x/bobarr) - 🍿 The all-in-one alternative for Sonarr, Radarr, Jackett... with a VPN and running in docker
@@ -513,6 +531,7 @@
 
 ## go 
 
+- [benbusby/yeetfile](https://github.com/benbusby/yeetfile) - A self-hosted service for encrypted file sharing and storage
 - [Madh93/karakeepbot](https://github.com/Madh93/karakeepbot) - 🔖 Telegram Bot for saving bookmarks to Karakeep (previously Hoarder)
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
 - [dim13/otpauth](https://github.com/dim13/otpauth) - Google Authenticator migration decoder
@@ -524,6 +543,9 @@
 
 ## golang 
 
+- [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features
+- [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
+- [benbusby/yeetfile](https://github.com/benbusby/yeetfile) - A self-hosted service for encrypted file sharing and storage
 - [steveiliop56/tinyauth](https://github.com/steveiliop56/tinyauth) - The simplest way to protect your apps with a login screen.
 - [Madh93/karakeepbot](https://github.com/Madh93/karakeepbot) - 🔖 Telegram Bot for saving bookmarks to Karakeep (previously Hoarder)
 - [doxx/darkflare](https://github.com/doxx/darkflare) - DarkFlare Firewall Piercing (TCP over CDN)
@@ -590,7 +612,13 @@
 
 ## home-assistant 
 
+- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
+- [mikeroyal/Raspberry-Pi-Guide](https://github.com/mikeroyal/Raspberry-Pi-Guide) - Raspberry Pi Guide. Learn all about the Raspberry Pi and other cool tools such as Tailscale, WireGuard, Home Assistant, Homebridge, ESPHome, and Watchdog timer.
 - [XiaoMi/ha_xiaomi_home](https://github.com/XiaoMi/ha_xiaomi_home) - Xiaomi Home Integration for Home Assistant
+
+## homebridge 
+
+- [mikeroyal/Raspberry-Pi-Guide](https://github.com/mikeroyal/Raspberry-Pi-Guide) - Raspberry Pi Guide. Learn all about the Raspberry Pi and other cool tools such as Tailscale, WireGuard, Home Assistant, Homebridge, ESPHome, and Watchdog timer.
 
 ## html 
 
@@ -639,6 +667,7 @@
 
 ## javascript 
 
+- [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
 - [huggingface/transformers.js](https://github.com/huggingface/transformers.js) - State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
@@ -678,6 +707,7 @@
 
 ## language 
 
+- [simjanos-dev/LinguaCafe](https://github.com/simjanos-dev/LinguaCafe) - LinguaCafe is a self-hosted software that helps language learners read foreign languages.
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [Merterm/Etymon](https://github.com/Merterm/Etymon) - Find the origin of words in every language using a Deep Neural Network trained to create an etymological map.
 
@@ -715,6 +745,8 @@
 
 ## linux 
 
+- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
+- [predmijat/realworlddevopscourse](https://github.com/predmijat/realworlddevopscourse) - Accompanying files for "Real world Devops project from start to finish" course
 - [dbcli/litecli](https://github.com/dbcli/litecli) - CLI for SQLite Databases with auto-completion and syntax highlighting
 - [AlisamTechnology/ATSCAN](https://github.com/AlisamTechnology/ATSCAN) - Advanced dork Search & Mass Exploit Scanner
 - [DSchroer/dslcad](https://github.com/DSchroer/dslcad) - DSLCad is a programming language & interpreter for building 3D models.
@@ -847,6 +879,7 @@
 
 ## open-source 
 
+- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 - [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Qualtrics Alternative
 - [ZlibraryKO/zlibrary.koplugin](https://github.com/ZlibraryKO/zlibrary.koplugin) - Home of the KOReader Zlibrary plugin
 - [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 The ultimate social media scheduling tool, with a bunch of AI  🤖
@@ -1038,6 +1071,9 @@
 
 ## privacy 
 
+- [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
+- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
+- [benbusby/yeetfile](https://github.com/benbusby/yeetfile) - A self-hosted service for encrypted file sharing and storage
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 
 ## productivity 
@@ -1060,6 +1096,7 @@
 
 ## python 
 
+- [predmijat/realworlddevopscourse](https://github.com/predmijat/realworlddevopscourse) - Accompanying files for "Real world Devops project from start to finish" course
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 - [misiektoja/instagram_monitor](https://github.com/misiektoja/instagram_monitor) - Real-time tracking of Instagram users activities and profile changes
 - [dbcli/litecli](https://github.com/dbcli/litecli) - CLI for SQLite Databases with auto-completion and syntax highlighting
@@ -1085,12 +1122,15 @@
 
 ## raspberry-pi 
 
+- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
+- [mikeroyal/Raspberry-Pi-Guide](https://github.com/mikeroyal/Raspberry-Pi-Guide) - Raspberry Pi Guide. Learn all about the Raspberry Pi and other cool tools such as Tailscale, WireGuard, Home Assistant, Homebridge, ESPHome, and Watchdog timer.
 - [jaromaz/MacintoshPi](https://github.com/jaromaz/MacintoshPi) - MacintoshPi is a project that allows running full-screen versions of Apple's Mac OS 7, Mac OS 8 and Mac OS 9 with sound, active online connection and modem emulation under Raspberry Pi.
 - [reynico/raspberry-websdr](https://github.com/reynico/raspberry-websdr) - Raspberry PI based WebSDR server
 - [dslotter/HamPi](https://github.com/dslotter/HamPi) - HamPi
 
 ## react 
 
+- [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
 - [Adam-CAD/CADAM](https://github.com/Adam-CAD/CADAM) - CADAM is the open source text-to-CAD web application
@@ -1157,6 +1197,11 @@
 
 ## self-hosted 
 
+- [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features
+- [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
+- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
+- [benbusby/yeetfile](https://github.com/benbusby/yeetfile) - A self-hosted service for encrypted file sharing and storage
+- [mikeroyal/Raspberry-Pi-Guide](https://github.com/mikeroyal/Raspberry-Pi-Guide) - Raspberry Pi Guide. Learn all about the Raspberry Pi and other cool tools such as Tailscale, WireGuard, Home Assistant, Homebridge, ESPHome, and Watchdog timer.
 - [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) - Calibre-Web but Automated and with Many New Features! Fully automate and simplify your eBook set up!
 - [booklore-app/booklore](https://github.com/booklore-app/booklore) - BookLore is a self-hosted app for managing and reading books & comics (PDF, EPUB, CBZ) with metadata editing, OPDS, reading progress, and multi-user support.
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-Aware Tunneled Reverse Proxy Server with Dashboard UI
@@ -1288,6 +1333,7 @@
 
 ## typescript 
 
+- [benbusby/yeetfile](https://github.com/benbusby/yeetfile) - A self-hosted service for encrypted file sharing and storage
 - [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Qualtrics Alternative
 - [iam4x/bobarr](https://github.com/iam4x/bobarr) - 🍿 The all-in-one alternative for Sonarr, Radarr, Jackett... with a VPN and running in docker
 - [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 The ultimate social media scheduling tool, with a bunch of AI  🤖
