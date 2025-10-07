@@ -90,6 +90,7 @@
 
 ## Dockerfile 
 
+- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 - [tynor88/docker-rclone-mount](https://github.com/tynor88/docker-rclone-mount) - Docker for Rclone FUSE mount (exposable to host and other containers)
 - [polotto/awesome-captain-definition](https://github.com/polotto/awesome-captain-definition) - Some captain-definition files for the CapRover (https://caprover.com/) that can be useful to other developers.
 - [jackbrycesmith/laravel-caprover-template](https://github.com/jackbrycesmith/laravel-caprover-template) - Template to deploy a Laravel app in docker for CapRover
@@ -104,6 +105,9 @@
 
 ## Go 
 
+- [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features
+- [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
+- [benbusby/yeetfile](https://github.com/benbusby/yeetfile) - A self-hosted service for encrypted file sharing and storage
 - [steveiliop56/tinyauth](https://github.com/steveiliop56/tinyauth) - The simplest way to protect your apps with a login screen.
 - [tesserato/CodeWeaver](https://github.com/tesserato/CodeWeaver) - Weave your codebase into a single, navigable Markdown document
 - [Madh93/karakeepbot](https://github.com/Madh93/karakeepbot) - 🔖 Telegram Bot for saving bookmarks to Karakeep (previously Hoarder)
@@ -351,6 +355,8 @@
 
 ## Shell 
 
+- [predmijat/realworlddevopscourse](https://github.com/predmijat/realworlddevopscourse) - Accompanying files for "Real world Devops project from start to finish" course
+- [mikeroyal/Raspberry-Pi-Guide](https://github.com/mikeroyal/Raspberry-Pi-Guide) - Raspberry Pi Guide. Learn all about the Raspberry Pi and other cool tools such as Tailscale, WireGuard, Home Assistant, Homebridge, ESPHome, and Watchdog timer.
 - [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!
 - [yuaotian/go-cursor-help](https://github.com/yuaotian/go-cursor-help) - 解决Cursor在免费订阅期间出现以下提示的问题:  Your request has been blocked as our system has detected suspicious activity / You've reached your trial request limit.  /  Too many free trial accounts used on this machine
 - [mitcdh/docker-google-drive-ocamlfuse](https://github.com/mitcdh/docker-google-drive-ocamlfuse) - Mount Google Drive with FUSE within a Docker container
@@ -435,6 +441,7 @@
 
 ## Vue 
 
+- [simjanos-dev/LinguaCafe](https://github.com/simjanos-dev/LinguaCafe) - LinguaCafe is a self-hosted software that helps language learners read foreign languages.
 - [epicmaxco/vuestic-ui](https://github.com/epicmaxco/vuestic-ui) - Vuestic UI is an open-source Vue 3 component library designed for rapid development, easy maintenance, and high accessibility. Maintained by Epicmax (@epicmaxco).
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [themsaid/wink](https://github.com/themsaid/wink) - A Laravel-based publishing platform
