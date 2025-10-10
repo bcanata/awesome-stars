@@ -145,7 +145,7 @@
 
 ## Java 
 
-- [booklore-app/booklore](https://github.com/booklore-app/booklore) - BookLore is a self-hosted app for managing and reading books & comics (PDF, EPUB, CBZ) with metadata editing, OPDS, reading progress, and multi-user support.
+- [booklore-app/booklore](https://github.com/booklore-app/booklore) - BookLore: A self-hosted, multi-user digital library with smart shelves, auto metadata, Kobo & KOReader sync, BookDrop imports, OPDS support, and a built-in reader for EPUB, PDF, and comics.
 - [GOAT-8092/GOAT8092-robot](https://github.com/GOAT-8092/GOAT8092-robot) - 
 - [goldenhornfrc/robot2024-offseason](https://github.com/goldenhornfrc/robot2024-offseason) - 
 - [mapbox/mapbox-android-demo](https://github.com/mapbox/mapbox-android-demo) - Google Play demo app for the Mapbox Maps SDK for Android
