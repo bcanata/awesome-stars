@@ -599,6 +599,7 @@
 
 ## hacktoberfest 
 
+- [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - A Privacy First PDF Toolkit
 - [ohmyform/ohmyform](https://github.com/ohmyform/ohmyform) - ✏️ Free open source alternative to TypeForm, TellForm, or Google Forms ⛺
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-Aware Tunneled Reverse Proxy Server with Dashboard UI
 - [yournextstore/yournextstore](https://github.com/yournextstore/yournextstore) - Your Next Store: Modern Commerce with Next.js and Stripe as the backend.
@@ -924,7 +925,6 @@
 
 ## others 
 
-- [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - A Privacy First PDF Toolkit
 - [bcanata/dokploy-sozluk](https://github.com/bcanata/dokploy-sozluk) - an exhaustive ekşi sözlük clone, powered by Python
 - [GOAT-8092/8092.tr](https://github.com/GOAT-8092/8092.tr) - Official website for FRC Team G.O.A.T. 8092 - Greatest Of All Times from Tekirdağ, Turkey. Built with Astro, TypeScript, and Tailwind CSS.
 - [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) - all of the workflows of n8n i could find (also from the site itself)
