@@ -888,7 +888,7 @@
 
 ## open-data 
 
-- [evrifaessa/open-data-turkey](https://github.com/evrifaessa/open-data-turkey) - The most comprehensive open data index of Turkey
+- [yagiz-dev/open-data-turkey](https://github.com/yagiz-dev/open-data-turkey) - The most comprehensive open data index of Turkey
 - [kaymal/acik-veri](https://github.com/kaymal/acik-veri) - Curated list of open data platforms of Turkiye | Türkiye'nin açık veri kaynakları
 
 ## open-source 
