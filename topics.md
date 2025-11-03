@@ -933,6 +933,8 @@
 
 ## others 
 
+- [benbasha/Claude-Autopilot](https://github.com/benbasha/Claude-Autopilot) - VS Code/Cursor extension for automating Claude Code tasks with intelligent queuing, batch processing, and auto-resume.
+- [SuperClaude-Org/SuperClaude_Framework](https://github.com/SuperClaude-Org/SuperClaude_Framework) - A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies.
 - [samuelfaj/claudiomiro](https://github.com/samuelfaj/claudiomiro) - Send your prompt — it decomposes, codes, reviews, builds, tests, and commits autonomously, in PARALLEL.
 - [bcanata/dokploy-sozluk](https://github.com/bcanata/dokploy-sozluk) - an exhaustive ekşi sözlük clone, powered by Python
 - [GOAT-8092/8092.tr](https://github.com/GOAT-8092/8092.tr) - Official website for FRC Team G.O.A.T. 8092 - Greatest Of All Times from Tekirdağ, Turkey. Built with Astro, TypeScript, and Tailwind CSS.
