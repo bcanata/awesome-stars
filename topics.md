@@ -72,6 +72,7 @@
 - [good-first-issue](#good-first-issue)
 - [google-cloud](#google-cloud)
 - [graphql](#graphql)
+- [gui](#gui)
 - [hacking](#hacking)
 - [hacking-tool](#hacking-tool)
 - [hacking-tools](#hacking-tools)
@@ -586,6 +587,10 @@
 - [iam4x/bobarr](https://github.com/iam4x/bobarr) - 🍿 The all-in-one alternative for Sonarr, Radarr, Jackett... with a VPN and running in docker
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 - [redwoodjs/graphql](https://github.com/redwoodjs/graphql) - RedwoodGraphQL
+
+## gui 
+
+- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 
 ## hacking 
 
