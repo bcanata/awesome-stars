@@ -152,7 +152,7 @@
 
 ## JavaScript 
 
-- [samuelfaj/claudiomiro](https://github.com/samuelfaj/claudiomiro) - Send your prompt — it decomposes, codes, reviews, builds, tests, and commits autonomously, in PARALLEL.
+- [samuelfaj/claudiomiro](https://github.com/samuelfaj/claudiomiro) - Send your prompt: It decomposes, codes, reviews, builds, tests, and commits, autonomously, in parallel and while economizing tokens.
 - [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - A Privacy First PDF Toolkit
 - [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) - Calibre-Web but Automated and with Many New Features! Fully automate and simplify your eBook set up!
 - [koodo-reader/koodo-reader](https://github.com/koodo-reader/koodo-reader) - A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux, Android, iOS and Web
