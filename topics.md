@@ -939,6 +939,7 @@
 
 ## others 
 
+- [nesdesignco/nova-glassmorphism-nextjs-template](https://github.com/nesdesignco/nova-glassmorphism-nextjs-template) - Scroll, and elegant animations. Includes Hero, Features, Pricing, CTA sections. Built with    Next.js 15, TypeScript, Tailwind CSS v4, shadcn/ui & Framer Motion.
 - [benbasha/Claude-Autopilot](https://github.com/benbasha/Claude-Autopilot) - VS Code/Cursor extension for automating Claude Code tasks with intelligent queuing, batch processing, and auto-resume.
 - [SuperClaude-Org/SuperClaude_Framework](https://github.com/SuperClaude-Org/SuperClaude_Framework) - A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies.
 - [samuelfaj/claudiomiro](https://github.com/samuelfaj/claudiomiro) - Send your prompt: It decomposes, codes, reviews, builds, tests, and commits, autonomously, in parallel and while economizing tokens.
