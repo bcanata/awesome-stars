@@ -410,7 +410,7 @@
 - [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL
 - [creativetimofficial/soft-ui-react-native](https://github.com/creativetimofficial/soft-ui-react-native) - Start your development with a Design System for React-Native inspired by Soft UI Design System.
 - [bugbakery/audapolis](https://github.com/bugbakery/audapolis) - an editor for spoken-word audio with automatic transcription
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [ajnart/subs](https://github.com/ajnart/subs) - Subs ! Track your subscriptions easily
 - [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 The ultimate social media scheduling tool, with a bunch of AI  🤖
 - [yournextstore/yournextstore](https://github.com/yournextstore/yournextstore) - Your Next Store: Modern Commerce with Next.js and Stripe.
