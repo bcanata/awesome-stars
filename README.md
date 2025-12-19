@@ -380,7 +380,7 @@
 ## Svelte 
 
 - [serge-chat/serge](https://github.com/serge-chat/serge) - A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
-- [palacms/palacms](https://github.com/palacms/palacms) - Next-gen monolithic CMS Pala is a self-hosted, component-based CMS with a built-in IDE, visual editing, and static site generation. One server, unlimited sites.
+- [palacms/palacms](https://github.com/palacms/palacms) - Component-based CMS with a built-in IDE, visual editing, and static site generation. One server, unlimited sites.
 
 ## Swift 
 
