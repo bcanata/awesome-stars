@@ -1101,6 +1101,7 @@
 
 ## powershell 
 
+- [kaitranntt/ccs](https://github.com/kaitranntt/ccs) - Switch between multiple Claude accounts and AI models (GLM, Kimi) instantly. Multi-account support with concurrent sessions + settings-based model switching.
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
 
 ## privacy 
