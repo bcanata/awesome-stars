@@ -105,6 +105,7 @@
 - [macos](#macos)
 - [markdown](#markdown)
 - [material-design](#material-design)
+- [mcp](#mcp)
 - [microsoft](#microsoft)
 - [mobile](#mobile)
 - [mongodb](#mongodb)
@@ -833,6 +834,12 @@
 
 - [mdbootstrap/TW-Elements](https://github.com/mdbootstrap/TW-Elements) - 𝙃𝙪𝙜𝙚 collection of Tailwind MIT licensed (free) components, sections and templates 😎
 
+## mcp 
+
+- [yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) - Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection
+- [chatmcp/mcpso](https://github.com/chatmcp/mcpso) - directory for Awesome MCP Servers
+- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
+
 ## microsoft 
 
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
@@ -959,7 +966,6 @@
 - [andycufari/ClaudePoint](https://github.com/andycufari/ClaudePoint) - 
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
 - [hasaneyldrm/cursor-rules](https://github.com/hasaneyldrm/cursor-rules) - Cursor rule'larını topladığım github repositorysi
-- [chatmcp/mcpso](https://github.com/chatmcp/mcpso) - directory for Awesome MCP Servers
 - [saidsurucu/yargi-mcp](https://github.com/saidsurucu/yargi-mcp) - MCP Server For Turkish Legal Databases
 - [chengazhen/cursor-auto-free](https://github.com/chengazhen/cursor-auto-free) - auto sign cursor
 - [DCNick3/f-xoss](https://github.com/DCNick3/f-xoss) - Free your Xoss device: a cloud-free reimplementation of Xoss companion app
