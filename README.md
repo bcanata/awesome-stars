@@ -177,6 +177,7 @@
 - [machineinteractive/skies-adsb](https://github.com/machineinteractive/skies-adsb) - skies-adsb transforms your browser into a real-time 3D air traffic display. Using unfiltered ADS-B data from an RTL-SDR receiver, explore your local air traffic, surrounding airspace, and geography wi
 - [The-EG/OctoPrint-CameraSettings](https://github.com/The-EG/OctoPrint-CameraSettings) - An OctoPrint plugin that allows a user to interactively change camera settings.
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
+- [Roznoshchik/Lurnby](https://github.com/Roznoshchik/Lurnby) - A tool for active reading and personal knowledge management
 - [w0unc/w0unc-discord-bot](https://github.com/w0unc/w0unc-discord-bot) - 
 - [janpaepke/ScrollMagic](https://github.com/janpaepke/ScrollMagic) - The javascript library for magical scroll interactions.
 - [wilrnh/emergencywalletcards.com](https://github.com/wilrnh/emergencywalletcards.com) - Opensource repository for https://emergencywalletcards.com
@@ -326,7 +327,6 @@
 - [frknkrc44/nicksizbot](https://github.com/frknkrc44/nicksizbot) - 
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [kemalcanbora/EksiApi](https://github.com/kemalcanbora/EksiApi) - Ekşi Sözlük API
-- [Roznoshchik/Lurnby](https://github.com/Roznoshchik/Lurnby) - A tool for active reading and personal knowledge management
 - [miaowware/qrm2](https://github.com/miaowware/qrm2) - A discord bot with ham radio functions
 - [realsuayip/django-sozluk](https://github.com/realsuayip/django-sozluk) - an exhaustive ekşi sözlük clone, powered by Python
 - [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
