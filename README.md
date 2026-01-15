@@ -309,7 +309,7 @@
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 - [XiaoMi/ha_xiaomi_home](https://github.com/XiaoMi/ha_xiaomi_home) - Xiaomi Home Integration for Home Assistant
 - [flankerhqd/wifimonster](https://github.com/flankerhqd/wifimonster) - Wifi sniffing and hijacking tool
-- [misiektoja/instagram_monitor](https://github.com/misiektoja/instagram_monitor) - Real-time tracking of Instagram users activities and profile changes
+- [misiektoja/instagram_monitor](https://github.com/misiektoja/instagram_monitor) - Track Instagram users' activities, profile changes and capture content with beautiful dashboards and instant notifications
 - [dbcli/litecli](https://github.com/dbcli/litecli) - CLI for SQLite Databases with auto-completion and syntax highlighting
 - [cankurttekin/tcdd-cli](https://github.com/cankurttekin/tcdd-cli) - A tool on your terminal or browser that helps you to find empty seats at Turkish Railways by making requests to TCDD API.
 - [QuixiAI/github2file](https://github.com/QuixiAI/github2file) - 
