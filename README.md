@@ -148,7 +148,7 @@
 - [frc-5160-the-chargers/FRC2026](https://github.com/frc-5160-the-chargers/FRC2026) - 5160's code for Rebuilt, the 2026 FRC game.
 - [team2393/FRC2026](https://github.com/team2393/FRC2026) - 2026 FRC Robot
 - [booklore-app/booklore](https://github.com/booklore-app/booklore) - BookLore: A self-hosted, multi-user digital library with smart shelves, auto metadata, Kobo & KOReader sync, BookDrop imports, OPDS support, and a built-in reader for EPUB, PDF, and comics.
-- [GOAT-8092/GOAT8092-robot](https://github.com/GOAT-8092/GOAT8092-robot) - 
+- [GOAT-8092/robot-2025](https://github.com/GOAT-8092/robot-2025) - 
 - [goldenhornfrc/robot2024-offseason](https://github.com/goldenhornfrc/robot2024-offseason) - 
 - [mapbox/mapbox-android-demo](https://github.com/mapbox/mapbox-android-demo) - Google Play demo app for the Mapbox Maps SDK for Android
 
