@@ -219,7 +219,7 @@
 - [fishttp/awesome-bluesky](https://github.com/fishttp/awesome-bluesky) - A list of all known tools available for the Bluesky platform
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [iCHAIT/awesome-macOS](https://github.com/iCHAIT/awesome-macOS) -  A curated list of awesome applications, softwares, tools and shiny things for macOS.
-- [yagiz-dev/open-data-turkey](https://github.com/yagiz-dev/open-data-turkey) - Türkiye'de yayımlanan açık veri kaynakları
+- [yagiz-dev/open-data-turkey](https://github.com/yagiz-dev/open-data-turkey) - Belediyeler, şirketler ve kamu kuruluşlarının yayımladığı açık veri kaynakları
 - [WB2CBA/DX-FT8-FT8-MULTIBAND-TABLET-TRANSCEIVER](https://github.com/WB2CBA/DX-FT8-FT8-MULTIBAND-TABLET-TRANSCEIVER) - 
 - [kholia/Budget-RF-Lab](https://github.com/kholia/Budget-RF-Lab) - Build a RF lab on a budget. For homebrewers. For new amateur radio operators.
 - [ItIsMeCall911/Awesome-Telegram-OSINT](https://github.com/ItIsMeCall911/Awesome-Telegram-OSINT) - 📚 A Curated List of Awesome Telegram OSINT Tools, Sites & Resources
