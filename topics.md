@@ -914,7 +914,7 @@
 
 ## open-data 
 
-- [yagiz-dev/open-data-turkey](https://github.com/yagiz-dev/open-data-turkey) - Türkiye'de yayımlanan açık veri kaynakları
+- [yagiz-dev/open-data-turkey](https://github.com/yagiz-dev/open-data-turkey) - Belediyeler, şirketler ve kamu kuruluşlarının yayımladığı açık veri kaynakları
 - [kaymal/acik-veri](https://github.com/kaymal/acik-veri) - Curated list of open data platforms of Turkiye | Türkiye'nin açık veri kaynakları
 
 ## open-source 
