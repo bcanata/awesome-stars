@@ -964,6 +964,7 @@
 
 ## others 
 
+- [bluewave-labs/DodoTidy](https://github.com/bluewave-labs/DodoTidy) - A native macOS system cleaner and optimization app built with SwiftUI
 - [qshosfw/antenna](https://github.com/qshosfw/antenna) - A GTK4 libadwaita app for managing Quansheng radios
 - [spm81/Multi-UVTools](https://github.com/spm81/Multi-UVTools) - QuanSheng UV-K5 (All models) & UV-K1 UVTOOL and more...
 - [frc-5160-the-chargers/FRC2026](https://github.com/frc-5160-the-chargers/FRC2026) - 5160's code for Rebuilt, the 2026 FRC game.
