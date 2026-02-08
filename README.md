@@ -208,6 +208,7 @@
 
 ## MDX 
 
+- [yournextstore/yournextstore](https://github.com/yournextstore/yournextstore) - Open-Source Next.js commerce. Stripe-native, ultra fast page loads, typed APIs. Built for AI development (Claude, Codex,   Cursor).
 - [tinacms/tina.io](https://github.com/tinacms/tina.io) - Website for TinaCMS 🦙 - General info, documentation, blogs & contribution guidelines.
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 
@@ -421,7 +422,6 @@
 - [bugbakery/audapolis](https://github.com/bugbakery/audapolis) - an editor for spoken-word audio with automatic transcription
 - [ajnart/subs](https://github.com/ajnart/subs) - Subs ! Track your subscriptions easily
 - [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 The ultimate social media scheduling tool, with a bunch of AI  🤖
-- [yournextstore/yournextstore](https://github.com/yournextstore/yournextstore) - Open-Source Next.js commerce. Stripe-native, ultra fast page loads, typed APIs. Built for AI development (Claude, Codex,   Cursor).
 - [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 - [getumbrel/llama-gpt](https://github.com/getumbrel/llama-gpt) - A self-hosted, offline, ChatGPT-like chatbot. Powered by Llama 2. 100% private, with no data leaving your device. New: Code Llama support!
