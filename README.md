@@ -155,6 +155,7 @@
 
 ## JavaScript 
 
+- [cagoshian/mhrs-otorandevu](https://github.com/cagoshian/mhrs-otorandevu) - MHRS'de randevuları otomatik kontrol eden ve randevu bulunduğunda alan sistem
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
 - [qshosfw/antenna](https://github.com/qshosfw/antenna) - A GTK4 libadwaita app for managing Quansheng radios
 - [spm81/Multi-UVTools](https://github.com/spm81/Multi-UVTools) - QuanSheng UV-K5 (All models) & UV-K1 UVTOOL and more...
