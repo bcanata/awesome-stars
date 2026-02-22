@@ -393,6 +393,7 @@
 
 ## Swift 
 
+- [keremerkan/asc-client](https://github.com/keremerkan/asc-client) - A command-line tool for building, archiving, and publishing apps to the App Store — from Xcode archive to App Review submission. Built with Swift on the App Store Connect API.
 - [DodoApps/dodotidy](https://github.com/DodoApps/dodotidy) - A native macOS system cleaner and optimization app built with SwiftUI
 - [johnbean393/Sidekick](https://github.com/johnbean393/Sidekick) - A native macOS app that allows users to chat with a local LLM that can respond with information from files, folders and websites on your Mac without installing any other software. Powered by llama.cpp
 - [tombonez/noTunes](https://github.com/tombonez/noTunes) - A simple macOS application that will prevent iTunes or Apple Music from launching.
