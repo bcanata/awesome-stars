@@ -61,6 +61,7 @@
 - [elixir](#elixir)
 - [emulator](#emulator)
 - [english](#english)
+- [fastapi](#fastapi)
 - [firebase](#firebase)
 - [firefox](#firefox)
 - [framework](#framework)
@@ -531,6 +532,10 @@
 ## english 
 
 - [3rt4nm4n/turkish-apis](https://github.com/3rt4nm4n/turkish-apis) - List of Turkish APIs. Türk API'leri
+
+## fastapi 
+
+- [serge-chat/serge](https://github.com/serge-chat/serge) - A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
 
 ## firebase 
 
