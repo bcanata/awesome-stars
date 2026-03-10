@@ -404,6 +404,7 @@
 
 ## TypeScript 
 
+- [yigitkonur/cli-continues](https://github.com/yigitkonur/cli-continues) - resume any AI coding session in another tool — Claude Code, Copilot, Gemini, Codex, Cursor
 - [baadir/decisionmemo](https://github.com/baadir/decisionmemo) - 
 - [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon Lite is a fully autonomous AI pentester for web apps and APIs. 96.15% (100/104 exploits) on a hint-free, source-aware variant of the XBOW benchmark.
 - [qshosfw/squelch](https://github.com/qshosfw/squelch) - open source web app for managing quansheng radios
