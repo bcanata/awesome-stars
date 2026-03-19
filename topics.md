@@ -744,11 +744,11 @@
 
 ## jekyll 
 
-- [Jekyll-Garden/jekyll-garden.github.io](https://github.com/Jekyll-Garden/jekyll-garden.github.io) - A simple Jekyll theme that turns your Obsidian notes into a beautiful website.
+- [hfactor/jekyll-garden](https://github.com/hfactor/jekyll-garden) - A simple Jekyll theme that turns your Obsidian notes into a beautiful website.
 
 ## jekyll-theme 
 
-- [Jekyll-Garden/jekyll-garden.github.io](https://github.com/Jekyll-Garden/jekyll-garden.github.io) - A simple Jekyll theme that turns your Obsidian notes into a beautiful website.
+- [hfactor/jekyll-garden](https://github.com/hfactor/jekyll-garden) - A simple Jekyll theme that turns your Obsidian notes into a beautiful website.
 
 ## json 
 
@@ -941,7 +941,7 @@
 
 ## obsidian 
 
-- [Jekyll-Garden/jekyll-garden.github.io](https://github.com/Jekyll-Garden/jekyll-garden.github.io) - A simple Jekyll theme that turns your Obsidian notes into a beautiful website.
+- [hfactor/jekyll-garden](https://github.com/hfactor/jekyll-garden) - A simple Jekyll theme that turns your Obsidian notes into a beautiful website.
 
 ## open-data 
 
@@ -994,7 +994,7 @@
 - [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - practice made claude perfect
 - [baadir/decisionmemo](https://github.com/baadir/decisionmemo) - 
 - [sametacar/retro-claude-sounds](https://github.com/sametacar/retro-claude-sounds) - Claude Code hook sounds – Warcraft, StarCraft, Mortal Kombat
-- [keremerkan/asc-cli](https://github.com/keremerkan/asc-cli) - A command-line tool for building, archiving, and publishing apps to the App Store — from Xcode archive to App Review submission. Built with Swift on the App Store Connect API.
+- [keremerkan/ascelerate](https://github.com/keremerkan/ascelerate) - A command-line tool for building, archiving, and publishing apps to the App Store — from Xcode archive to App Review submission. Built with Swift on the App Store Connect API.
 - [cagoshian/mhrs-otorandevu](https://github.com/cagoshian/mhrs-otorandevu) - MHRS'de randevuları otomatik kontrol eden ve randevu bulunduğunda alan sistem
 - [qshosfw/squelch](https://github.com/qshosfw/squelch) - open source web app for managing quansheng radios
 - [DodoApps/dodotidy](https://github.com/DodoApps/dodotidy) - A native macOS system cleaner and optimization app built with SwiftUI
