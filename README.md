@@ -171,7 +171,7 @@
 - [huggingface/transformers.js](https://github.com/huggingface/transformers.js) - State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!
 - [izuolan/notionic](https://github.com/izuolan/notionic) - Notion + Craft.do + Next.js = Notionic
 - [bcanata/TelegramEmojiSpamBlocker](https://github.com/bcanata/TelegramEmojiSpamBlocker) - 
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 - [catdad/canvas-confetti](https://github.com/catdad/canvas-confetti) - 🎉 performant confetti animation in the browser
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 - [bcanata/KEGM-CagriIsareti](https://github.com/bcanata/KEGM-CagriIsareti) - Kıyı Emniyeti Genel Müdürlüğü Çağrı İşareti Sorgulama
@@ -368,7 +368,7 @@
 
 ## Shell 
 
-- [nyldn/claude-octopus](https://github.com/nyldn/claude-octopus) - Multi-tentacled orchestrator for Claude Code - Coordinates Codex CLI and Gemini CLI for parallel task execution with intelligent contextual routing
+- [nyldn/claude-octopus](https://github.com/nyldn/claude-octopus) - Multi-AI orchestration plugin for Claude Code — 7 providers (Codex, Gemini, Claude, Perplexity, OpenRouter, Ollama, Copilot), 47 commands, 50 skills, Double Diamond workflows
 - [sametacar/retro-claude-sounds](https://github.com/sametacar/retro-claude-sounds) - Claude Code hook sounds – Warcraft, StarCraft, Mortal Kombat
 - [AnandChowdhary/continuous-claude](https://github.com/AnandChowdhary/continuous-claude) - 🔂 Ralph loop with PRs: Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac.
