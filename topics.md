@@ -211,7 +211,7 @@
 
 ## ai-agents 
 
-- [nyldn/claude-octopus](https://github.com/nyldn/claude-octopus) - Multi-AI orchestration plugin for Claude Code — 7 providers (Codex, Gemini, Claude, Perplexity, OpenRouter, Ollama, Copilot), 47 commands, 50 skills, Double Diamond workflows
+- [nyldn/claude-octopus](https://github.com/nyldn/claude-octopus) - Multi-LLM orchestration plugin for Claude Code — 8 providers (Codex, Gemini, Claude, Perplexity, OpenRouter, Copilot, Qwen, Ollama), 47 commands, 50 skills, Double Diamond workflows
 - [AnandChowdhary/continuous-claude](https://github.com/AnandChowdhary/continuous-claude) - 🔂 Ralph loop with PRs: Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging
 - [Adam-CAD/CADAM](https://github.com/Adam-CAD/CADAM) - CADAM is the open source text-to-CAD web application
 - [johnbean393/Sidekick](https://github.com/johnbean393/Sidekick) - A native macOS app that allows users to chat with a local LLM that can respond with information from files, folders and websites on your Mac without installing any other software. Powered by llama.cpp
@@ -459,7 +459,7 @@
 
 ## developer-tools 
 
-- [nyldn/claude-octopus](https://github.com/nyldn/claude-octopus) - Multi-AI orchestration plugin for Claude Code — 7 providers (Codex, Gemini, Claude, Perplexity, OpenRouter, Ollama, Copilot), 47 commands, 50 skills, Double Diamond workflows
+- [nyldn/claude-octopus](https://github.com/nyldn/claude-octopus) - Multi-LLM orchestration plugin for Claude Code — 8 providers (Codex, Gemini, Claude, Perplexity, OpenRouter, Copilot, Qwen, Ollama), 47 commands, 50 skills, Double Diamond workflows
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 
