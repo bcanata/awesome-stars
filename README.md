@@ -162,7 +162,7 @@
 - [qshosfw/antenna](https://github.com/qshosfw/antenna) - A GTK4 libadwaita app for managing Quansheng radios
 - [spm81/Multi-UVTools](https://github.com/spm81/Multi-UVTools) - QuanSheng UV-K5 (All models) & UV-K1 UVTOOL and more...
 - [samuelfaj/claudiomiro](https://github.com/samuelfaj/claudiomiro) - Send your prompt: It decomposes, codes, reviews, builds, tests, and commits, autonomously, in parallel and while economizing tokens.
-- [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - A Privacy First PDF Toolkit
+- [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - The Privacy First PDF Toolkit
 - [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) - Calibre-Web but Automated and with tons of New Features! Fully automate and simplify your eBook set up!
 - [koodo-reader/koodo-reader](https://github.com/koodo-reader/koodo-reader) - A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux, Android, iOS and Web
 - [enesutku/Localization-CLI](https://github.com/enesutku/Localization-CLI) - A command-line tool that auto-translates iOS localization files via multiple AI providers, supporting 70+ languages with flexible source language options.
@@ -224,6 +224,7 @@
 - [iannuttall/claude-agents](https://github.com/iannuttall/claude-agents) - Custom subagents to use with Claude Code.
 - [hasaneyldrm/cursor-rules](https://github.com/hasaneyldrm/cursor-rules) - Cursor rule'larını topladığım github repositorysi
 - [fishttp/awesome-bluesky](https://github.com/fishttp/awesome-bluesky) - A list of all known tools available for the Bluesky platform
+- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [iCHAIT/awesome-macOS](https://github.com/iCHAIT/awesome-macOS) -  A curated list of awesome applications, softwares, tools and shiny things for macOS.
 - [yagiz-dev/open-data-turkey](https://github.com/yagiz-dev/open-data-turkey) - Belediyeler, şirketler ve kamu kuruluşlarının yayımladığı açık veri kaynakları
 - [WB2CBA/DX-FT8-FT8-MULTIBAND-TABLET-TRANSCEIVER](https://github.com/WB2CBA/DX-FT8-FT8-MULTIBAND-TABLET-TRANSCEIVER) - 
@@ -417,7 +418,6 @@
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML and CSV into interactive graphs.
 - [CodebuffAI/codebuff](https://github.com/CodebuffAI/codebuff) - Generate code from the terminal!
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
-- [trevor-amta/claude-code-model-switcher](https://github.com/trevor-amta/claude-code-model-switcher) - Switch between Anthropic Claude models and Z.ai GLM models in Claude Code
 - [Adam-CAD/CADAM](https://github.com/Adam-CAD/CADAM) - CADAM is the open source text-to-CAD web application
 - [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Qualtrics Alternative
 - [ohmyform/ohmyform](https://github.com/ohmyform/ohmyform) - ✏️ Free open source alternative to TypeForm, TellForm, or Google Forms ⛺
