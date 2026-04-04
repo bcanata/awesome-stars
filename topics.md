@@ -60,6 +60,7 @@
 - [elixir](#elixir)
 - [emulator](#emulator)
 - [english](#english)
+- [esp32](#esp32)
 - [fastapi](#fastapi)
 - [firebase](#firebase)
 - [firefox](#firefox)
@@ -535,6 +536,10 @@
 ## english 
 
 - [3rt4nm4n/turkish-apis](https://github.com/3rt4nm4n/turkish-apis) - List of Turkish APIs. Türk API'leri
+
+## esp32 
+
+- [remipch/solar_concentrator](https://github.com/remipch/solar_concentrator) - Homemade automated solar concentrator 🔧 ☀️ 🔎
 
 ## fastapi 
 
@@ -1035,7 +1040,6 @@
 - [naaberhaci/cizgidiyari-scraper](https://github.com/naaberhaci/cizgidiyari-scraper) - ÇizgiDiyarı Mega ve Mediafire linkleri scraper'ı
 - [flankerhqd/wifimonster](https://github.com/flankerhqd/wifimonster) - Wifi sniffing and hijacking tool
 - [kholia/Budget-RF-Lab](https://github.com/kholia/Budget-RF-Lab) - Build a RF lab on a budget. For homebrewers. For new amateur radio operators.
-- [remipch/solar_concentrator](https://github.com/remipch/solar_concentrator) - Homemade automated solar concentrator 🔧 ☀️ 🔎
 - [izuolan/notionic](https://github.com/izuolan/notionic) - Notion + Craft.do + Next.js = Notionic
 - [bcanata/TelegramEmojiSpamBlocker](https://github.com/bcanata/TelegramEmojiSpamBlocker) - 
 - [ardabalkandev/numberToWords](https://github.com/ardabalkandev/numberToWords) - Converts numbers to words in TÜRKÇE or ENGLISH
