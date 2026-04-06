@@ -28,6 +28,7 @@
 - [chatgpt](#chatgpt)
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
+- [claude-code](#claude-code)
 - [cli](#cli)
 - [cloud](#cloud)
 - [cms](#cms)
@@ -356,6 +357,16 @@
 
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
 - [manojVivek/medium-unlimited](https://github.com/manojVivek/medium-unlimited) - A browser extension to read medium.com articles for free without membership.
+
+## claude-code 
+
+- [nyldn/claude-octopus](https://github.com/nyldn/claude-octopus) - Put up to 8 AI models on every coding task — blind spots surface before you ship. Claude Code plugin.
+- [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - practice made claude perfect
+- [yigitkonur/cli-continues](https://github.com/yigitkonur/cli-continues) - resume any AI coding session in another tool — Claude Code, Copilot, Gemini, Codex, Cursor
+- [sametacar/retro-claude-sounds](https://github.com/sametacar/retro-claude-sounds) - Claude Code hook sounds – Warcraft, StarCraft, Mortal Kombat
+- [kaitranntt/ccs](https://github.com/kaitranntt/ccs) - Switch between Claude accounts, Gemini, Copilot, OpenRouter (300+ models) via CLIProxyAPI OAuth proxy. Visual dashboard, remote proxy support, WebSearch fallback. Zero-config to production-ready.
+- [AnandChowdhary/continuous-claude](https://github.com/AnandChowdhary/continuous-claude) - 🔂 Ralph loop with PRs: Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging
+- [benbasha/Claude-Autopilot](https://github.com/benbasha/Claude-Autopilot) - VS Code/Cursor extension for automating Claude Code tasks with intelligent queuing, batch processing, and auto-resume.
 
 ## cli 
 
@@ -996,9 +1007,7 @@
 ## others 
 
 - [asafakin/oyun](https://github.com/asafakin/oyun) - 
-- [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - practice made claude perfect
 - [baadir/decisionmemo](https://github.com/baadir/decisionmemo) - 
-- [sametacar/retro-claude-sounds](https://github.com/sametacar/retro-claude-sounds) - Claude Code hook sounds – Warcraft, StarCraft, Mortal Kombat
 - [keremerkan/ascelerate](https://github.com/keremerkan/ascelerate) - A command-line tool for building, archiving, and publishing apps to the App Store — from Xcode archive to App Review submission. Built with Swift on the App Store Connect API.
 - [cagoshian/mhrs-otorandevu](https://github.com/cagoshian/mhrs-otorandevu) - MHRS'de randevuları otomatik kontrol eden ve randevu bulunduğunda alan sistem
 - [qshosfw/squelch](https://github.com/qshosfw/squelch) - open source web app for managing quansheng radios
@@ -1008,7 +1017,6 @@
 - [frc-5160-the-chargers/FRC2026](https://github.com/frc-5160-the-chargers/FRC2026) - 5160's code for Rebuilt, the 2026 FRC game.
 - [team2393/FRC2026](https://github.com/team2393/FRC2026) - 2026 FRC Robot
 - [nesdesignco/nova-glassmorphism-nextjs-template](https://github.com/nesdesignco/nova-glassmorphism-nextjs-template) - Scroll, and elegant animations. Includes Hero, Features, Pricing, CTA sections. Built with    Next.js 15, TypeScript, Tailwind CSS v4, shadcn/ui & Framer Motion.
-- [benbasha/Claude-Autopilot](https://github.com/benbasha/Claude-Autopilot) - VS Code/Cursor extension for automating Claude Code tasks with intelligent queuing, batch processing, and auto-resume.
 - [SuperClaude-Org/SuperClaude_Framework](https://github.com/SuperClaude-Org/SuperClaude_Framework) - A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies.
 - [samuelfaj/claudiomiro](https://github.com/samuelfaj/claudiomiro) - Send your prompt: It decomposes, codes, reviews, builds, tests, and commits, autonomously, in parallel and while economizing tokens.
 - [bcanata/dokploy-sozluk](https://github.com/bcanata/dokploy-sozluk) - an exhaustive ekşi sözlük clone, powered by Python
