@@ -224,7 +224,6 @@
 - [iannuttall/claude-agents](https://github.com/iannuttall/claude-agents) - Custom subagents to use with Claude Code.
 - [hasaneyldrm/cursor-rules](https://github.com/hasaneyldrm/cursor-rules) - Cursor rule'larını topladığım github repositorysi
 - [fishttp/awesome-bluesky](https://github.com/fishttp/awesome-bluesky) - A list of all known tools available for the Bluesky platform
-- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [iCHAIT/awesome-macOS](https://github.com/iCHAIT/awesome-macOS) -  A curated list of awesome applications, softwares, tools and shiny things for macOS.
 - [yagiz-dev/open-data-turkey](https://github.com/yagiz-dev/open-data-turkey) - Belediyeler, şirketler ve kamu kuruluşlarının yayımladığı açık veri kaynakları
 - [WB2CBA/DX-FT8-FT8-MULTIBAND-TABLET-TRANSCEIVER](https://github.com/WB2CBA/DX-FT8-FT8-MULTIBAND-TABLET-TRANSCEIVER) - 
