@@ -1331,6 +1331,7 @@
 ## robotics 
 
 - [andrewda/awesome-frc](https://github.com/andrewda/awesome-frc) - A curated list of packages and resources regarding the FIRST Robotics Competition.
+- [Adam-CAD/CADAM](https://github.com/Adam-CAD/CADAM) - CADAM is the open source text-to-CAD web application
 
 ## rust 
 
