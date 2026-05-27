@@ -421,7 +421,7 @@
 
 ## command-line 
 
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac.
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.
 
 ## computer-science 
 
@@ -872,7 +872,7 @@
 ## mac 
 
 - [tmoroney/auto-subs](https://github.com/tmoroney/auto-subs) - Instantly generate AI-powered subtitles on your device. Works standalone or connects to DaVinci Resolve.
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac.
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.
 - [iCHAIT/awesome-macOS](https://github.com/iCHAIT/awesome-macOS) -  A curated list of awesome applications, softwares, tools and shiny things for macOS.
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 - [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
@@ -885,7 +885,7 @@
 
 ## macos 
 
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac.
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.
 - [johnbean393/Sidekick](https://github.com/johnbean393/Sidekick) - A native macOS app that allows users to chat with a local LLM that can respond with information from files, folders and websites on your Mac without installing any other software. Powered by llama.cpp
 - [iCHAIT/awesome-macOS](https://github.com/iCHAIT/awesome-macOS) -  A curated list of awesome applications, softwares, tools and shiny things for macOS.
 - [tombonez/noTunes](https://github.com/tombonez/noTunes) - A simple macOS application that will prevent iTunes or Apple Music from launching.
@@ -1399,7 +1399,7 @@
 
 ## shell 
 
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac.
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.
 - [AlisamTechnology/ATSCAN](https://github.com/AlisamTechnology/ATSCAN) - Advanced dork Search & Mass Exploit Scanner
 - [LoliC0d3/LoliDocker](https://github.com/LoliC0d3/LoliDocker) - dorking google
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
