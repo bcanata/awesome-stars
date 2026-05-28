@@ -1036,6 +1036,7 @@
 
 ## others 
 
+- [smoochiee/Noisy-boy-esp32-Bluetooth-jammer](https://github.com/smoochiee/Noisy-boy-esp32-Bluetooth-jammer) - Bluetooth jammer using esp32 with webserver
 - [leventilo/mobius](https://github.com/leventilo/mobius) - Drop a physics paper, get a Ciechanowski-grade interactive simulator with the paper's real physics under the hood. Built with Claude Opus 4.7 + Managed Agents + Skills for the Cerebral Valley hackatho
 - [bedriyan/medkit-app](https://github.com/bedriyan/medkit-app) - A voice-first AI patient simulator bringing the future of medical education to your browser, built with Claude Opus 4.7.
 - [asafakin/oyun](https://github.com/asafakin/oyun) - 
