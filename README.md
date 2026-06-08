@@ -70,6 +70,7 @@
 
 ## C++ 
 
+- [geo-tp/ESP32-Bit-Pirate](https://github.com/geo-tp/ESP32-Bit-Pirate) - A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 - [BruceDevices/firmware](https://github.com/BruceDevices/firmware) - Predatory ESP32 Firmware
 - [remipch/solar_concentrator](https://github.com/remipch/solar_concentrator) - Homemade automated solar concentrator 🔧 ☀️ 🔎
 - [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
