@@ -204,7 +204,7 @@
 
 ## agents 
 
-- [Junkz3/wrench-board](https://github.com/Junkz3/wrench-board) - A senior microsoldering technician, available to every repair shop — from the seasoned pro to the apprentice. Powered by Claude Opus 4.7.
+- [Junkz3/wrench-board](https://github.com/Junkz3/wrench-board) - A senior microsoldering technician, available to every repair shop from the seasoned pro to the apprentice. Powered by Claude Opus 4.8
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - 100+ AI Agent & RAG apps you can actually run — clone, customize, ship.
 - [Adam-CAD/CADAM](https://github.com/Adam-CAD/CADAM) - CADAM is the open source text-to-CAD web application
 - [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
@@ -577,7 +577,7 @@
 
 ## fastapi 
 
-- [Junkz3/wrench-board](https://github.com/Junkz3/wrench-board) - A senior microsoldering technician, available to every repair shop — from the seasoned pro to the apprentice. Powered by Claude Opus 4.7.
+- [Junkz3/wrench-board](https://github.com/Junkz3/wrench-board) - A senior microsoldering technician, available to every repair shop from the seasoned pro to the apprentice. Powered by Claude Opus 4.8
 - [serge-chat/serge](https://github.com/serge-chat/serge) - A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
 
 ## firebase 
@@ -665,7 +665,7 @@
 
 ## hackathon 
 
-- [Junkz3/wrench-board](https://github.com/Junkz3/wrench-board) - A senior microsoldering technician, available to every repair shop — from the seasoned pro to the apprentice. Powered by Claude Opus 4.7.
+- [Junkz3/wrench-board](https://github.com/Junkz3/wrench-board) - A senior microsoldering technician, available to every repair shop from the seasoned pro to the apprentice. Powered by Claude Opus 4.8
 - [adindamochamad/omnibridge](https://github.com/adindamochamad/omnibridge) - An AI agent that identifies legacy serial device protocols autonomously. Built for Claude Opus 4.7 Hackathon 2026.
 
 ## hacking 
@@ -1253,7 +1253,7 @@
 
 ## python 
 
-- [Junkz3/wrench-board](https://github.com/Junkz3/wrench-board) - A senior microsoldering technician, available to every repair shop — from the seasoned pro to the apprentice. Powered by Claude Opus 4.7.
+- [Junkz3/wrench-board](https://github.com/Junkz3/wrench-board) - A senior microsoldering technician, available to every repair shop from the seasoned pro to the apprentice. Powered by Claude Opus 4.8
 - [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack) - Useful tool to track location or mobile number
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - 100+ AI Agent & RAG apps you can actually run — clone, customize, ship.
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
