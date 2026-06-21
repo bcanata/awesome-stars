@@ -1038,6 +1038,7 @@
 
 ## others 
 
+- [lraton/FlopperZiro](https://github.com/lraton/FlopperZiro) - A Flipper Zero clone, but cheapest, DIY and simply Open Source, made with Arduino IDE
 - [saidsurucu/ude-mac-arm64](https://github.com/saidsurucu/ude-mac-arm64) - Uyap Doküman Editörü (UDE) için native Apple Silicon (arm64) build — Rosetta'sız çalışır
 - [smoochiee/Noisy-boy-esp32-Bluetooth-jammer](https://github.com/smoochiee/Noisy-boy-esp32-Bluetooth-jammer) - Bluetooth jammer using esp32 with webserver
 - [leventilo/mobius](https://github.com/leventilo/mobius) - Drop a physics paper, get a Ciechanowski-grade interactive simulator with the paper's real physics under the hood. Built with Claude Opus 4.7 + Managed Agents + Skills for the Cerebral Valley hackatho
