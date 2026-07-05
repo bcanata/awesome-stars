@@ -250,7 +250,6 @@
 - [acronis-zz/lcd-pano](https://github.com/acronis-zz/lcd-pano) - Okullar için Dijital Pano Uygulaması
 - [trekhleb/promote-your-next-startup](https://github.com/trekhleb/promote-your-next-startup) - 🚀 Free resources you may use to promote your next startup
 - [alexeymezenin/laravel-best-practices](https://github.com/alexeymezenin/laravel-best-practices) - Laravel best practices
-- [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
 - [gsovereignty/HackRF-Blue](https://github.com/gsovereignty/HackRF-Blue) - 
 - [umutphp/hacker-laws-tr](https://github.com/umutphp/hacker-laws-tr) - 💻📖 Programcıların faydalı bulacağı yasalar, teoriler, prensipler ve desenler. #hackerlaws
@@ -348,6 +347,7 @@
 - [jketterl/openwebrx](https://github.com/jketterl/openwebrx) - Open source, multi-user SDR receiver software with a web interface
 - [Occy88/bots](https://github.com/Occy88/bots) - app automation.
 - [chriskiehl/Gooey](https://github.com/chriskiehl/Gooey) - Turn (almost) any Python command line program into a full GUI application with one line
+- [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [CyberPunkMetalHead/Binance-volatility-trading-bot](https://github.com/CyberPunkMetalHead/Binance-volatility-trading-bot) - This is a fully functioning Binance trading bot that measures the volatility of every coin on Binance and places trades with the highest gaining coins If you like this project consider donating though
 - [Atarity/deploy-your-own-saas](https://github.com/Atarity/deploy-your-own-saas) - List of "only yours" cloud services for everyday needs :black_flag:
 - [Fillll/pockebot](https://github.com/Fillll/pockebot) - Read It Later for Telegram
