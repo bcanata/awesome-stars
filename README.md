@@ -222,6 +222,7 @@
 
 ## Others 
 
+- [bapttiste73/fableplan](https://github.com/bapttiste73/fableplan) - 
 - [andrewda/awesome-frc](https://github.com/andrewda/awesome-frc) - A curated list of packages and resources regarding the FIRST Robotics Competition.
 - [iannuttall/claude-agents](https://github.com/iannuttall/claude-agents) - Custom subagents to use with Claude Code.
 - [hasaneyldrm/cursor-rules](https://github.com/hasaneyldrm/cursor-rules) - Cursor rule'larını topladığım github repositorysi
