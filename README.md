@@ -426,7 +426,7 @@
 - [nesdesignco/nova-glassmorphism-nextjs-template](https://github.com/nesdesignco/nova-glassmorphism-nextjs-template) - Scroll, and elegant animations. Includes Hero, Features, Pricing, CTA sections. Built with    Next.js 15, TypeScript, Tailwind CSS v4, shadcn/ui & Framer Motion.
 - [benbasha/Claude-Autopilot](https://github.com/benbasha/Claude-Autopilot) - VS Code/Cursor extension for automating Claude Code tasks with intelligent queuing, batch processing, and auto-resume.
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML and CSV into interactive graphs.
-- [CodebuffAI/codebuff](https://github.com/CodebuffAI/codebuff) - Generate code from the terminal!
+- [CodebuffAI/freebuff](https://github.com/CodebuffAI/freebuff) - The free coding agent
 - [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [Adam-CAD/CADAM](https://github.com/Adam-CAD/CADAM) - CADAM is the open source text-to-CAD web application
 - [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Qualtrics Alternative
