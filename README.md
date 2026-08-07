@@ -161,6 +161,7 @@
 
 ## JavaScript 
 
+- [altunsumerve/radiosub](https://github.com/altunsumerve/radiosub) - Gerçek zamanlı radyo altyazı uygulaması — Konuşma tanıma ve Mors decoder
 - [asafakin/oyun](https://github.com/asafakin/oyun) - 
 - [cagoshian/mhrs-otorandevu](https://github.com/cagoshian/mhrs-otorandevu) - MHRS'de randevuları otomatik kontrol eden ve randevu bulunduğunda alan sistem
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
@@ -298,7 +299,7 @@
 
 ## Python 
 
-- [Junkz3/wrench-board](https://github.com/Junkz3/wrench-board) - A senior microsoldering technician, available to every repair shop from the seasoned pro to the apprentice. Powered by Claude Opus 4.8
+- [Junkz3/wrench-board](https://github.com/Junkz3/wrench-board) - A senior microsoldering technician, available to every repair shop from the seasoned pro to the apprentice. Powered by Claude Opus 5
 - [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack) - Useful tool to track location or mobile number
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.
 - [SuperClaude-Org/SuperClaude_Framework](https://github.com/SuperClaude-Org/SuperClaude_Framework) - A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies.
