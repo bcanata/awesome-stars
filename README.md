@@ -269,6 +269,7 @@
 
 ## PHP 
 
+- [bcanata/dernek-yonetim](https://github.com/bcanata/dernek-yonetim) - Türkiye'deki dernekler için üye, aidat, defter ve beyanname yönetimi. DERBİS uyumlu, kendi sunucunuza kurulur. Laravel + Livewire.
 - [ardabalkandev/numberToWords](https://github.com/ardabalkandev/numberToWords) - Converts numbers to words in TÜRKÇE or ENGLISH
 - [OpnForm/OpnForm](https://github.com/OpnForm/OpnForm) - Beautiful Open-Source Form Builder
 - [skipperbent/simple-php-router](https://github.com/skipperbent/simple-php-router) - Simple, fast and yet powerful PHP router that is easy to get integrated and in any project. Heavily inspired by the way Laravel handles routing, with both simplicity and expand-ability in mind.
