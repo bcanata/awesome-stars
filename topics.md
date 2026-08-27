@@ -848,6 +848,7 @@
 
 ## laravel 
 
+- [bcanata/dernek-yonetim](https://github.com/bcanata/dernek-yonetim) - Türkiye'deki dernekler için üye, aidat, defter ve beyanname yönetimi. DERBİS uyumlu, kendi sunucunuza kurulur. Laravel + Livewire.
 - [OpnForm/OpnForm](https://github.com/OpnForm/OpnForm) - Beautiful Open-Source Form Builder
 - [itsgoingd/clockwork](https://github.com/itsgoingd/clockwork) - Clockwork - php dev tools in your browser - server-side component
 - [tymondesigns/jwt-auth](https://github.com/tymondesigns/jwt-auth) - 🔐 JSON Web Token Authentication for Laravel & Lumen
@@ -1227,6 +1228,7 @@
 
 ## php 
 
+- [bcanata/dernek-yonetim](https://github.com/bcanata/dernek-yonetim) - Türkiye'deki dernekler için üye, aidat, defter ve beyanname yönetimi. DERBİS uyumlu, kendi sunucunuza kurulur. Laravel + Livewire.
 - [skipperbent/simple-php-router](https://github.com/skipperbent/simple-php-router) - Simple, fast and yet powerful PHP router that is easy to get integrated and in any project. Heavily inspired by the way Laravel handles routing, with both simplicity and expand-ability in mind.
 - [itsgoingd/clockwork](https://github.com/itsgoingd/clockwork) - Clockwork - php dev tools in your browser - server-side component
 - [tymondesigns/jwt-auth](https://github.com/tymondesigns/jwt-auth) - 🔐 JSON Web Token Authentication for Laravel & Lumen
@@ -1424,6 +1426,7 @@
 
 ## self-hosted 
 
+- [bcanata/dernek-yonetim](https://github.com/bcanata/dernek-yonetim) - Türkiye'deki dernekler için üye, aidat, defter ve beyanname yönetimi. DERBİS uyumlu, kendi sunucunuza kurulur. Laravel + Livewire.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - The Privacy First PDF Toolkit
 - [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features
