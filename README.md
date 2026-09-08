@@ -153,7 +153,6 @@
 
 ## Java 
 
-- [saidsurucu/ude-mac-arm64](https://github.com/saidsurucu/ude-mac-arm64) - Uyap Doküman Editörü (UDE) için native Apple Silicon (arm64) build — Rosetta'sız çalışır
 - [frc-5160-the-chargers/FRC2026](https://github.com/frc-5160-the-chargers/FRC2026) - 5160's code for Rebuilt, the 2026 FRC game.
 - [team2393/FRC2026](https://github.com/team2393/FRC2026) - 2026 FRC Robot
 - [GOAT-8092/robot-2025](https://github.com/GOAT-8092/robot-2025) - 
@@ -312,7 +311,6 @@
 - [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) - all of the workflows of n8n i could find (also from the site itself)
 - [RichardAtCT/claude-code-telegram](https://github.com/RichardAtCT/claude-code-telegram) - A powerful Telegram bot that provides remote access to Claude Code, enabling developers to interact with their projects from anywhere with full AI assistance and session persistence.
 - [pranav-deshmukh/blender-mcp](https://github.com/pranav-deshmukh/blender-mcp) - 
-- [saidsurucu/yargi-mcp](https://github.com/saidsurucu/yargi-mcp) - MCP Server For Turkish Legal Databases
 - [Ryan0204/cursor-auto-icloud](https://github.com/Ryan0204/cursor-auto-icloud) - Reset Cursor MachineID & Auto Sign Up New Account with Cursor Pro // 自动注册 Cursor AI (免费使用Pro功能) & 自动重置机器ID  // You've reached your trial request limit. / Too many free trial accounts used on this mach
 - [chengazhen/cursor-auto-free](https://github.com/chengazhen/cursor-auto-free) - auto sign cursor
 - [SharadKumar97/OSINT-SPY](https://github.com/SharadKumar97/OSINT-SPY) - Performs OSINT scan on email/domain/ip_address/organization using OSINT-SPY. It can be used by Data Miners, Infosec Researchers, Penetration Testers and cyber crime investigator in order to find deep 
