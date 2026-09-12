@@ -309,7 +309,7 @@
 - [yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) - Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection
 - [bcanata/dokploy-sozluk](https://github.com/bcanata/dokploy-sozluk) - an exhaustive ekşi sözlük clone, powered by Python
 - [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) - all of the workflows of n8n i could find (also from the site itself)
-- [RichardAtCT/claude-code-telegram](https://github.com/RichardAtCT/claude-code-telegram) - A powerful Telegram bot that provides remote access to Claude Code, enabling developers to interact with their projects from anywhere with full AI assistance and session persistence.
+- [overwirehq/claude-code-telegram](https://github.com/overwirehq/claude-code-telegram) - A powerful Telegram bot that provides remote access to Claude Code, enabling developers to interact with their projects from anywhere with full AI assistance and session persistence.
 - [pranav-deshmukh/blender-mcp](https://github.com/pranav-deshmukh/blender-mcp) - 
 - [Ryan0204/cursor-auto-icloud](https://github.com/Ryan0204/cursor-auto-icloud) - Reset Cursor MachineID & Auto Sign Up New Account with Cursor Pro // 自动注册 Cursor AI (免费使用Pro功能) & 自动重置机器ID  // You've reached your trial request limit. / Too many free trial accounts used on this mach
 - [chengazhen/cursor-auto-free](https://github.com/chengazhen/cursor-auto-free) - auto sign cursor
