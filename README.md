@@ -215,7 +215,6 @@
 ## MDX 
 
 - [yournextstore/yournextstore](https://github.com/yournextstore/yournextstore) - AI-Native Open-Source Next.js commerce. Powered by Stripe. Ultra fast with typesafe Commerce SDK. Built for AI development (Claude, Codex,   Cursor).
-- [tinacms/tina.io](https://github.com/tinacms/tina.io) - Website for TinaCMS 🦙 - General info, documentation, blogs & contribution guidelines.
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 
 ## Objective-C 
@@ -465,6 +464,7 @@
 - [leerob/next-mdx-blog](https://github.com/leerob/next-mdx-blog) - Next.js + MDX blog template with Tailwind CSS and TypeScript.
 - [tinacms/tina-cloud-starter](https://github.com/tinacms/tina-cloud-starter) - Next.js starter for TinaCMS: live edit your website visually  🪄
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
+- [tinacms/tina.io](https://github.com/tinacms/tina.io) - Website for TinaCMS 🦙 - General info, documentation, blogs & contribution guidelines.
 - [spencerwooo/react-notion-blog](https://github.com/spencerwooo/react-notion-blog) - Deprecated - original blog see other branch
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
