@@ -1117,7 +1117,6 @@
 - [GOAT-8092/robot-2025](https://github.com/GOAT-8092/robot-2025) - 
 - [bcanata/bluesky-follower-checker](https://github.com/bcanata/bluesky-follower-checker) - Web tool to check who doesn't follow you back on Bluesky
 - [yuaotian/go-cursor-help](https://github.com/yuaotian/go-cursor-help) - 解决Cursor在免费订阅期间出现以下提示的问题:  Your request has been blocked as our system has detected suspicious activity / You've reached your trial request limit.  /  Too many free trial accounts used on this machine
-- [yx-elite/cursor-limit-reset](https://github.com/yx-elite/cursor-limit-reset) - This tool is developed for resetting Cursor editor device IDs to resolve account restrictions when switching accounts or during trial periods.
 - [ultrasev/cursor-reset](https://github.com/ultrasev/cursor-reset) - A script to reset Cursor editor's device identification system. Helps resolve account restrictions and trial-related issues.
 - [browser-use/macOS-use](https://github.com/browser-use/macOS-use) - Make Mac apps accessible for AI agents
 - [WB2CBA/DX-FT8-FT8-MULTIBAND-TABLET-TRANSCEIVER](https://github.com/WB2CBA/DX-FT8-FT8-MULTIBAND-TABLET-TRANSCEIVER) - 
