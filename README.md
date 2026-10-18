@@ -315,7 +315,6 @@
 - [cektor/EnCo](https://github.com/cektor/EnCo) - EnCo is a Cross-Platform file Encryption application developed in Python. This application allows users to Encrypt and Decrypt their files. Encrypt and Decrypt operations are performed with the AES cr
 - [nari-labs/dia](https://github.com/nari-labs/dia) - A TTS model capable of generating ultra-realistic dialogue in one pass.
 - [MrTuxx/SocialPwned](https://github.com/MrTuxx/SocialPwned) - SocialPwned is an OSINT tool that allows to get the emails, from a target, published in social networks such as Instagram, Linkedin and Twitter to find possible credentials leaks in PwnDB or Dehashed 
-- [yx-elite/cursor-limit-reset](https://github.com/yx-elite/cursor-limit-reset) - This tool is developed for resetting Cursor editor device IDs to resolve account restrictions when switching accounts or during trial periods.
 - [ultrasev/cursor-reset](https://github.com/ultrasev/cursor-reset) - A script to reset Cursor editor's device identification system. Helps resolve account restrictions and trial-related issues.
 - [browser-use/macOS-use](https://github.com/browser-use/macOS-use) - Make Mac apps accessible for AI agents
 - [naaberhaci/cizgidiyari-scraper](https://github.com/naaberhaci/cizgidiyari-scraper) - ÇizgiDiyarı Mega ve Mediafire linkleri scraper'ı
