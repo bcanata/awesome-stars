@@ -108,7 +108,7 @@
 
 - [quby1845/pdf-to-epub](https://github.com/quby1845/pdf-to-epub) - Convert scanned PDFs to EPUB using AI-powered OCR (DeepSeek + pdf-craft) locally on Windows
 - [stupside/castor](https://github.com/stupside/castor) - Point it at any web page and it finds the video, extracts the stream, transcodes it and casts in real time to your TV. It even burns subtitles….
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: Universal File Management Clients (for humans and agents)
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: Universal File Management Platform (for humans and agents)
 - [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features
 - [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
 - [benbusby/yeetfile](https://github.com/benbusby/yeetfile) - A self-hosted service for encrypted file sharing and storage
@@ -120,7 +120,7 @@
 - [urlgrey/aprs-dashboard](https://github.com/urlgrey/aprs-dashboard) - Dashboard for APRS messages
 - [dim13/otpauth](https://github.com/dim13/otpauth) - Google Authenticator migration decoder
 - [m1guelpf/chatgpt-telegram](https://github.com/m1guelpf/chatgpt-telegram) - Run your own GPTChat Telegram bot, with a single command!
-- [usememos/memos](https://github.com/usememos/memos) - A timeline for your thoughts. Just type. It stays yours.
+- [usememos/memos](https://github.com/usememos/memos) - Memos is an open-source, self-hosted note-taking app that brings your everyday thoughts together in a personal timeline. Your data stays yours, and you choose what to keep private or share.
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [darklynx/request-baskets](https://github.com/darklynx/request-baskets) - HTTP requests collector to test webhooks, notifications, REST clients and more ...
 - [m-manu/go-find-duplicates](https://github.com/m-manu/go-find-duplicates) - Find duplicate files (photos, videos, music, documents) on your computer, portable hard drives etc.
@@ -400,7 +400,7 @@
 ## Svelte 
 
 - [serge-chat/serge](https://github.com/serge-chat/serge) - A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
-- [primocms/primo](https://github.com/primocms/primo) - Agent-native visual CMS. Build sites with Claude/Codex/whatever, manage them visually.
+- [primocms/primo](https://github.com/primocms/primo) - Build client-editable sites with Claude, Codex, Cursor, or whatever comes next.
 
 ## Swift 
 
