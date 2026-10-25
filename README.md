@@ -167,7 +167,6 @@
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
 - [qshosfw/antenna](https://github.com/qshosfw/antenna) - A GTK4 libadwaita app for managing Quansheng radios
 - [spm81/Multi-UVTools](https://github.com/spm81/Multi-UVTools) - QuanSheng UV-K5 (All models) & UV-K1 UVTOOL and more...
-- [samuelfaj/claudiomiro](https://github.com/samuelfaj/claudiomiro) - Send your prompt: It decomposes, codes, reviews, builds, tests, and commits, autonomously, in parallel and while economizing tokens.
 - [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - The Privacy First PDF Toolkit
 - [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) - Calibre-Web but Automated and with tons of New Features! Fully automate and simplify your eBook set up!
 - [koodo-reader/koodo-reader](https://github.com/koodo-reader/koodo-reader) - A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux, Android, iOS and Web
@@ -301,6 +300,7 @@
 
 ## Python 
 
+- [mfranzon/print3d](https://github.com/mfranzon/print3d) - Print 3D skill from text to 3D printing using Bambu Lab slicer.
 - [Junkz3/wrench-board](https://github.com/Junkz3/wrench-board) - A senior microsoldering technician, available to every repair shop from the seasoned pro to the apprentice. Powered by Claude Opus 5
 - [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack) - Useful tool to track location or mobile number
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.
@@ -407,6 +407,7 @@
 - [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) - bluetooth mesh chat, IRC vibes
 - [keremerkan/ascelerate](https://github.com/keremerkan/ascelerate) - A command-line tool for building, archiving, and publishing apps to the App Store — from Xcode archive to App Review submission. Built with Swift on the App Store Connect API.
 - [DodoApps/dodotidy](https://github.com/DodoApps/dodotidy) - A native macOS system cleaner and optimization app built with SwiftUI
+- [samuelfaj/MacCode](https://github.com/samuelfaj/MacCode) - Bots, Agents, subagents, terminals, SSH, browser, Git, and IDE are all in one app built for agentic coding.
 - [johnbean393/Sidekick](https://github.com/johnbean393/Sidekick) - A native macOS app that allows users to chat with a local LLM that can respond with information from files, folders and websites on your Mac without installing any other software. Powered by llama.cpp
 - [tombonez/noTunes](https://github.com/tombonez/noTunes) - A simple macOS application that will prevent iTunes or Apple Music from launching.
 - [pencilresearch/OpenScanner](https://github.com/pencilresearch/OpenScanner) - Fast, reliable, and free document scanner app for iPhone
