@@ -1083,7 +1083,6 @@
 
 ## others 
 
-- [mfranzon/print3d](https://github.com/mfranzon/print3d) - Print 3D skill from text to 3D printing using Bambu Lab slicer.
 - [TA-APRS/TA-APRS](https://github.com/TA-APRS/TA-APRS) - Windows APRS Digipeater & iGate Software
 - [quby1845/pdf-to-epub](https://github.com/quby1845/pdf-to-epub) - Convert scanned PDFs to EPUB using AI-powered OCR (DeepSeek + pdf-craft) locally on Windows
 - [altunsumerve/radiosub](https://github.com/altunsumerve/radiosub) - Gerçek zamanlı radyo altyazı uygulaması — Konuşma tanıma ve Mors decoder
@@ -1308,6 +1307,7 @@
 
 ## python 
 
+- [mfranzon/print3d](https://github.com/mfranzon/print3d) - Print 3D skill from text to 3D printing using Bambu Lab slicer.
 - [Junkz3/wrench-board](https://github.com/Junkz3/wrench-board) - A senior microsoldering technician, available to every repair shop from the seasoned pro to the apprentice. Powered by Claude Opus 5
 - [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack) - Useful tool to track location or mobile number
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.
