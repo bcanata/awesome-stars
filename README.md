@@ -16,6 +16,7 @@
 - [Elixir](#elixir)
 - [GDScript](#gdscript)
 - [Go](#go)
+- [Go Template](#go-template)
 - [HTML](#html)
 - [Handlebars](#handlebars)
 - [Java](#java)
@@ -130,6 +131,10 @@
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) - NetBird securely connects people, machines and AI agents across any network with one identity-based Zero Trust platform. Powered by peer-to-peer WireGuard®
 - [rodrigo-brito/ninjabot](https://github.com/rodrigo-brito/ninjabot) - A fast trading bot platform for cryptocurrency in Go (Binance)
 
+## Go Template 
+
+- [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!
+
 ## HTML 
 
 - [smoochiee/Noisy-boy-esp32-Bluetooth-jammer](https://github.com/smoochiee/Noisy-boy-esp32-Bluetooth-jammer) - Bluetooth jammer using esp32 with webserver
@@ -225,7 +230,6 @@
 - [TA-APRS/TA-APRS](https://github.com/TA-APRS/TA-APRS) - Windows APRS Digipeater & iGate Software
 - [bapttiste73/fableplan](https://github.com/bapttiste73/fableplan) - 
 - [andrewda/awesome-frc](https://github.com/andrewda/awesome-frc) - A curated list of packages and resources regarding the FIRST Robotics Competition.
-- [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!
 - [iannuttall/claude-agents](https://github.com/iannuttall/claude-agents) - Custom subagents to use with Claude Code.
 - [hasaneyldrm/cursor-rules](https://github.com/hasaneyldrm/cursor-rules) - Cursor rule'larını topladığım github repositorysi
 - [fishttp/awesome-bluesky](https://github.com/fishttp/awesome-bluesky) - A list of all known tools available for the Bluesky platform
