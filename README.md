@@ -419,6 +419,7 @@
 
 ## TypeScript 
 
+- [erhanmeydan/kilnframe](https://github.com/erhanmeydan/kilnframe) - Free, open source plugin for Premiere Pro and DaVinci Resolve: turns what you say into animated inserts and music, rendered on your own computer
 - [leventilo/mobius](https://github.com/leventilo/mobius) - Drop a physics paper, get a Ciechanowski-grade interactive simulator with the paper's real physics under the hood. Built with Claude Opus 4.7 + Managed Agents + Skills for the Cerebral Valley hackatho
 - [bedriyan/medkit-app](https://github.com/bedriyan/medkit-app) - A voice-first AI patient simulator bringing the future of medical education to your browser, built with Claude Opus 4.7.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
