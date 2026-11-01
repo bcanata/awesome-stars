@@ -1099,6 +1099,7 @@
 
 ## others 
 
+- [techgenius1/tvOS-Launcher](https://github.com/techgenius1/tvOS-Launcher) - A fast, lightweight tvOS 26 & macOS–inspired launcher for Android TV with a Liquid Glass dock, rotating depth scenes, universal Control Panel overlay, Recent Apps switcher, 1x/2x/3x button mapper, and
 - [TA-APRS/TA-APRS](https://github.com/TA-APRS/TA-APRS) - Windows APRS Digipeater & iGate Software
 - [quby1845/pdf-to-epub](https://github.com/quby1845/pdf-to-epub) - Convert scanned PDFs to EPUB using AI-powered OCR (DeepSeek + pdf-craft) locally on Windows
 - [altunsumerve/radiosub](https://github.com/altunsumerve/radiosub) - Gerçek zamanlı radyo altyazı uygulaması — Konuşma tanıma ve Mors decoder
