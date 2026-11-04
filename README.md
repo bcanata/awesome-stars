@@ -140,7 +140,6 @@
 - [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect
 - [GOAT-8092/8092.tr](https://github.com/GOAT-8092/8092.tr) - Official website for FRC Team G.O.A.T. 8092 - Greatest Of All Times from Tekirdağ, Turkey. Built with Astro, TypeScript, and Tailwind CSS.
 - [rajaprerak/rajaprerak.github.io](https://github.com/rajaprerak/rajaprerak.github.io) - Personal Portfolio Website
-- [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [vinitshahdeo/Email-Signature-Template](https://github.com/vinitshahdeo/Email-Signature-Template) - An email signature template made using HTML & CSS - let's make its easier for everyone!
 - [Jieyab89/OSINT-Cheat-sheet](https://github.com/Jieyab89/OSINT-Cheat-sheet) - OSINT cheat sheet, list OSINT tools, wiki, dataset, article, book , red team OSINT for hackers and OSINT tips and OSINT branch. This repository will grow every time will research, there is a research,
@@ -157,6 +156,7 @@
 
 ## Java 
 
+- [techgenius1/tvOS-Launcher](https://github.com/techgenius1/tvOS-Launcher) - A fast, lightweight tvOS 26 & macOS–inspired launcher for Android TV with a Liquid Glass dock, rotating depth scenes, universal Control Panel overlay, Recent Apps switcher, 1x/2x/3x button mapper, and
 - [frc-5160-the-chargers/FRC2026](https://github.com/frc-5160-the-chargers/FRC2026) - 5160's code for Rebuilt, the 2026 FRC game.
 - [team2393/FRC2026](https://github.com/team2393/FRC2026) - 2026 FRC Robot
 - [GOAT-8092/robot-2025](https://github.com/GOAT-8092/robot-2025) - 
@@ -217,6 +217,7 @@
 
 ## MDX 
 
+- [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 
 ## Objective-C 
@@ -260,7 +261,7 @@
 - [gsovereignty/HackRF-Blue](https://github.com/gsovereignty/HackRF-Blue) - 
 - [umutphp/hacker-laws-tr](https://github.com/umutphp/hacker-laws-tr) - 💻📖 Programcıların faydalı bulacağı yasalar, teoriler, prensipler ve desenler. #hackerlaws
 - [kitspace/awesome-electronics](https://github.com/kitspace/awesome-electronics) - A curated list of awesome resources for Electronic Engineers and hobbyists
-- [haidang666/awesome-tool-for-readme-profile](https://github.com/haidang666/awesome-tool-for-readme-profile) - List of thing you can add to your github readme profile
+- [haidang666/awesome-tool-for-readme-profile](https://github.com/haidang666/awesome-tool-for-readme-profile) - Things you can add to your GitHub profile README
 - [shalvah/Free-for-students](https://github.com/shalvah/Free-for-students) - Because software is expensive and money is elusive,
 - [kamath/student-free-stuff](https://github.com/kamath/student-free-stuff) - Just a list of free software dev tools students can get
 - [Openacademyedu/Developer-Swag](https://github.com/Openacademyedu/Developer-Swag) - Win free cool Developer Swag on the Internet.
@@ -303,7 +304,7 @@
 
 ## Python 
 
-- [mfranzon/print3d](https://github.com/mfranzon/print3d) - Print 3D skill from text to 3D printing using Bambu Lab slicer.
+- [mfranzon/print3d](https://github.com/mfranzon/print3d) - The best skill for 3D printing
 - [Junkz3/wrench-board](https://github.com/Junkz3/wrench-board) - A senior microsoldering technician, available to every repair shop from the seasoned pro to the apprentice. Powered by Claude Opus 5
 - [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack) - Useful tool to track location or mobile number
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.
