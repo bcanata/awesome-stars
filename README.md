@@ -394,7 +394,7 @@
 - [LoliC0d3/LoliDocker](https://github.com/LoliC0d3/LoliDocker) - dorking google
 - [1N3/Sn1per](https://github.com/1N3/Sn1per) - Automated penetration testing & attack surface management platform. Recon, scan, exploit, report - 600+ exploits, 90+ integrations, 10K+ detections.
 - [rafaelmaeuer/timecapsule-pi](https://github.com/rafaelmaeuer/timecapsule-pi) - Create Time Capsule with Raspberry Pi and external HDD
-- [paladini/ghost-on-github-pages](https://github.com/paladini/ghost-on-github-pages) - Ghost on Github Pages. Build and deploy Ghost for free in a few minutes.
+- [paladini/ghost-on-github-pages](https://github.com/paladini/ghost-on-github-pages) - Write in Ghost. Publish a free blog on GitHub Pages. No paid hosting. Set up in minutes.
 - [jaromaz/MacintoshPi](https://github.com/jaromaz/MacintoshPi) - MacintoshPi is a project that allows running full-screen versions of Apple's Mac OS 7, Mac OS 8 and Mac OS 9 with sound, active online connection and modem emulation under Raspberry Pi.
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - [myspaghetti/macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox) - Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox on x86 CPUs for Windows, Linux, and macOS
