@@ -180,6 +180,7 @@
 - [skills](#skills)
 - [software](#software)
 - [sqlite](#sqlite)
+- [static-site-generator](#static-site-generator)
 - [storybook](#storybook)
 - [svelte](#svelte)
 - [swift](#swift)
@@ -1225,7 +1226,6 @@
 - [Howchoo/random-bits](https://github.com/Howchoo/random-bits) - Random files that supplement various howchoo guides.
 - [skittles9823/APK-Installer-Win11](https://github.com/skittles9823/APK-Installer-Win11) - A simple powershell script to install apk files to Windows Subsystem for Android on Windows 11 by simply double clicking an apk file
 - [vomsis/netgsm](https://github.com/vomsis/netgsm) - Laravel 5.x Netgsm Package
-- [gethugothemes/bookworm-light-hugo](https://github.com/gethugothemes/bookworm-light-hugo) - Bookworm is a clean and modern Hugo blog theme focused on high speed and support multiple authors.
 - [HerMajestyDrMona/Windows11DragAndDropToTaskbarFix](https://github.com/HerMajestyDrMona/Windows11DragAndDropToTaskbarFix) - "Windows 11 Drag & Drop to the Taskbar (Fix)" fixes the missing "Drag & Drop to the Taskbar" support in Windows 11. It works with the new Windows 11 taskbar and does not require nasty changes like Und
 - [acronis-zz/lcd-pano](https://github.com/acronis-zz/lcd-pano) - Okullar için Dijital Pano Uygulaması
 - [trekhleb/promote-your-next-startup](https://github.com/trekhleb/promote-your-next-startup) - 🚀 Free resources you may use to promote your next startup
@@ -1531,6 +1531,12 @@
 - [dbcli/litecli](https://github.com/dbcli/litecli) - CLI for SQLite Databases with auto-completion and syntax highlighting
 - [usememos/memos](https://github.com/usememos/memos) - Memos is an open-source, self-hosted note-taking app that brings your everyday thoughts together in a personal timeline. Your data stays yours, and you choose what to keep private or share.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
+
+## static-site-generator 
+
+- [primocms/primo](https://github.com/primocms/primo) - Build client-editable sites with Claude, Codex, Cursor, or whatever comes next.
+- [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites.
+- [gethugothemes/bookworm-light-hugo](https://github.com/gethugothemes/bookworm-light-hugo) - Bookworm is a clean and modern Hugo blog theme focused on high speed and support multiple authors.
 
 ## storybook 
 
