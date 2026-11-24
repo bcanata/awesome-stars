@@ -960,6 +960,7 @@
 
 ## macos 
 
+- [os6/nospeaker](https://github.com/os6/nospeaker) - make your macbook's trackpad talk using its haptic motor
 - [erhanmeydan/kilnframe](https://github.com/erhanmeydan/kilnframe) - Free, open source plugin for Premiere Pro and DaVinci Resolve: turns what you say into animated inserts and music, rendered on your own computer
 - [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) - bluetooth mesh chat, IRC vibes
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Open-source Mac and PC cleaner. Keep your machine clean, light, and running like new. Fast CLI, plus native Mac and Windows apps.
@@ -1549,6 +1550,7 @@
 
 ## swift 
 
+- [os6/nospeaker](https://github.com/os6/nospeaker) - make your macbook's trackpad talk using its haptic motor
 - [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) - bluetooth mesh chat, IRC vibes
 - [johnbean393/Sidekick](https://github.com/johnbean393/Sidekick) - A native macOS app that allows users to chat with a local LLM that can respond with information from files, folders and websites on your Mac without installing any other software. Powered by llama.cpp
 - [tombonez/noTunes](https://github.com/tombonez/noTunes) - A simple macOS application that will prevent iTunes or Apple Music from launching.
