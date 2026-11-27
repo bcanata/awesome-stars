@@ -409,6 +409,7 @@
 
 ## Swift 
 
+- [os6/nospeaker](https://github.com/os6/nospeaker) - make your macbook's trackpad talk using its haptic motor
 - [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) - bluetooth mesh chat, IRC vibes
 - [keremerkan/ascelerate](https://github.com/keremerkan/ascelerate) - A command-line tool for building, archiving, and publishing apps to the App Store — from Xcode archive to App Review submission. Built with Swift on the App Store Connect API.
 - [DodoApps/dodotidy](https://github.com/DodoApps/dodotidy) - A native macOS system cleaner and optimization app built with SwiftUI
